@@ -220,6 +220,27 @@ class TwitterSearchTest < Test::Unit::TestCase # :nodoc:
     end
   end
   
+  # USER AGENT
+  
+  context "A new Client instance" do
+    setup do
+      @client = TwitterSearch::Client.new
+    end
+    
+    should 'respond to user agent' do
+      assert_respond_to @client, :agent
+    end
+    
+    should 'set a default user agent' do
+      assert_equal @client.headers['User-Agent'], "twitter-search"
+      assert_equal @client.agent, "twitter-search"
+    end
+    
+    should 'set a default timeout for the http request' do
+      assert_equal @client.timeout, TwitterSearch::TWITTER_API_DEFAULT_TIMEOUT
+    end
+  end
+  
   # FOREIGN LANGUAGES
   
   context "@client.query :q => 'congratulations', :lang => 'en'" do

@@ -4,6 +4,8 @@ require 'json'
 require 'cgi'
 
 module TwitterSearch
+  TWITTER_API_URL = 'http://search.twitter.com/search.json'
+  TWITTER_API_DEFAULT_TIMEOUT = 5
 
   class Tweet
     VARS = [:text, :from_user, :to_user, :to_user_id, :id, :iso_language_code, :from_user_id, :created_at, :profile_image_url ]
@@ -41,14 +43,33 @@ module TwitterSearch
   end
 
   class Client
+    attr_accessor :agent
+    
     def initialize(agent = 'twitter-search')
       @agent = agent
     end
-
+    
+    def headers
+      { "Content-Type" => 'application/json',
+        "User-Agent"   => @agent }
+    end
+    
+    def timeout
+      TWITTER_API_DEFAULT_TIMEOUT
+    end
+    
     def query(opts = {})
-      url = URI.parse 'http://search.twitter.com/search.json'
-      url.query = sanitize_query opts
-      Tweets.new JSON.parse(Net::HTTP.get(url))
+      url = URI.parse TWITTER_API_URL
+      url.query = sanitize_query(opts)
+      
+      req  = Net::HTTP::Get.new url.path
+      http = Net::HTTP.new(url.host, url.port)
+      http.read_timeout = timeout
+      
+      json = http.start { |http|
+        http.get("#{url.path}?#{url.query}", headers)
+      }.body
+      Tweets.new JSON.parse(json)
     end
 
     private
