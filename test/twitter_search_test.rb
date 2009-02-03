@@ -237,7 +237,7 @@ class TwitterSearchTest < Test::Unit::TestCase # :nodoc:
     end
     
     should 'set a default timeout for the http request' do
-      assert_equal @client.timeout, TwitterSearch::TWITTER_API_DEFAULT_TIMEOUT
+      assert_equal @client.timeout, TwitterSearch::Client::TWITTER_API_DEFAULT_TIMEOUT
     end
   end
   

@@ -4,8 +4,6 @@ require 'json'
 require 'cgi'
 
 module TwitterSearch
-  TWITTER_API_URL = 'http://search.twitter.com/search.json'
-  TWITTER_API_DEFAULT_TIMEOUT = 5
 
   class Tweet
     VARS = [:text, :from_user, :to_user, :to_user_id, :id, :iso_language_code, :from_user_id, :created_at, :profile_image_url ]
@@ -43,6 +41,9 @@ module TwitterSearch
   end
 
   class Client
+    TWITTER_API_URL = 'http://search.twitter.com/search.json'
+    TWITTER_API_DEFAULT_TIMEOUT = 5
+    
     attr_accessor :agent
     
     def initialize(agent = 'twitter-search')
