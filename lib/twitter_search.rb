@@ -10,9 +10,9 @@ module TwitterSearch
     attr_reader *VARS
     attr_reader :language
     
-    def initialize(h)
-      @language = h['iso_language_code']
-      VARS.each { |v| instance_variable_set "@#{v}", h[v.to_s] }
+    def initialize(opts)
+      @language = opts['iso_language_code']
+      VARS.each { |each| instance_variable_set "@#{each}", opts[each.to_s] }
     end
   end
 
@@ -22,9 +22,9 @@ module TwitterSearch
 
     include Enumerable
 
-    def initialize(h)
-      @results = h['results'].map { |tweet| Tweet.new tweet }
-      VARS.each { |v| instance_variable_set "@#{v}", h[v.to_s] }
+    def initialize(opts)
+      @results = opts['results'].collect { |each| Tweet.new(each) }
+      VARS.each { |each| instance_variable_set "@#{each}", opts[each.to_s] }
     end
 
     def each(&block)
@@ -60,10 +60,10 @@ module TwitterSearch
     end
     
     def query(opts = {})
-      url = URI.parse TWITTER_API_URL
+      url       = URI.parse(TWITTER_API_URL)
       url.query = sanitize_query(opts)
       
-      req  = Net::HTTP::Get.new url.path
+      req  = Net::HTTP::Get.new(url.path)
       http = Net::HTTP.new(url.host, url.port)
       http.read_timeout = timeout
       
@@ -84,8 +84,11 @@ module TwitterSearch
       end
 
       def sanitize_query_hash(query_hash)
-        query_hash.map{ |k,v| "#{CGI.escape(k.to_s)}=#{CGI.escape(v.to_s)}" }.join('&')
+        query_hash.collect { |key, value| 
+          "#{CGI.escape(key.to_s)}=#{CGI.escape(value.to_s)}" 
+        }.join('&')
       end
+  
   end
 
 end

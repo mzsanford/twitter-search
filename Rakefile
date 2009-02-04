@@ -1,8 +1,7 @@
 require 'rake'
 require 'rake/testtask'
-require 'date'
  
-test_files_pattern = 'test/rails_root/test/{unit,functional,other}/**/*_test.rb'
+test_files_pattern = 'test/twitter_search_test.rb'
 Rake::TestTask.new do |t|
   t.libs << 'lib'
   t.pattern = test_files_pattern
@@ -12,23 +11,23 @@ end
 desc "Run the test suite"
 task :default => :test
  
-spec = Gem::Specification.new do |s|
-  s.name = "twitter-search"
-  s.summary = "Ruby client for Twitter Search."
-  s.email = "dcroak@thoughtbot.com"
-  s.homepage = "http://github.com/dancroak/twitter-search"
-  s.description = "Ruby client for Twitter Search."
-  s.authors = ["Dustin Sallings", "Dan Croak"]
-  s.files = FileList["[A-Z]*", "{lib,test}/**/*"]
-  s.add_dependency('json', '>= 1.1.2')
+gem_spec = Gem::Specification.new do |gem_spec|
+  gem_spec.name        = "twitter-search"
+  gem_spec.version     = "0.5.2"
+  gem_spec.summary     = "Ruby client for Twitter Search."
+  gem_spec.email       = "dcroak@thoughtbot.com"
+  gem_spec.homepage    = "http://github.com/dancroak/twitter-search"
+  gem_spec.description = "Ruby client for Twitter Search."
+  gem_spec.authors     = ["Dustin Sallings", "Dan Croak"]
+  gem_spec.files       = FileList["[A-Z]*", "{generators,lib,shoulda_macros,rails}/**/*"]
+  gem_spec.add_dependency('json', '>= 1.1.2')
 end
- 
-begin
-  require 'rubygems'
-  require 'jeweler'
-  Jeweler.gemspec = spec
-rescue LoadError 
-  puts "Jeweler not available. sudo gem install technicalpickles-jeweler --source=http://gems.github.com"
+
+desc "Generate a gemspec file"
+task :gemspec do
+  File.open("#{gem_spec.name}.gemspec", 'w') do |f|
+    f.write gem_spec.to_yaml
+  end
 end
 
 require File.expand_path('lib/twitter_search', File.dirname(__FILE__))
