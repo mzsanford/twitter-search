@@ -2,8 +2,7 @@
 
 require File.join(File.dirname(__FILE__), 'test_helper')
 
-
-require 'fake_web'
+gem 'fake_web', '>=1.2.0'
 
 FakeWeb.allow_net_connect = false # an insurance policy against hitting http://twitter.com
 
