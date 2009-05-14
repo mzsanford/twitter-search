@@ -2,7 +2,8 @@
 
 require File.join(File.dirname(__FILE__), 'test_helper')
 
-gem 'fake_web', '>=1.2.0'
+gem('fakeweb', '>=1.2.0')
+require 'fakeweb'
 
 FakeWeb.allow_net_connect = false # an insurance policy against hitting http://twitter.com
 
@@ -307,7 +308,7 @@ class TwitterSearchTest < Test::Unit::TestCase # :nodoc:
       assert @tweets.has_next_page?
 
       FakeWeb.register_uri( :get,
-                            "#{TwitterSearch::Client::TWITTER_API_URL}?max_id=100&q=almost+a+Google%28or+is+it+Twitter%29whack&rpp=1&page=2",
+                            "#{TwitterSearch::Client::TWITTER_SEARCH_API_URL}?max_id=100&q=almost+a+Google%28or+is+it+Twitter%29whack&rpp=1&page=2",
                             :string => '{"results":[{"text":"Boston Celtics-Los Angeles Lakers, Halftime http://tinyurl.com/673s24","from_user":"nbatube","id":858836387,"language":"en","created_at":"Tue, 15 Jul 2008 09:27:57 +0000"}],"since_id":0,"max_id":100,"results_per_page":1,"page":2,"query":"almost+a+Google%28or+is+it+Twitter%29whack"}'
                           )
       next_page = @tweets.get_next_page
@@ -356,11 +357,6 @@ class TwitterSearchTest < Test::Unit::TestCase # :nodoc:
     
     def hyperlinks?(str)
       str.include?('http://') || str.include?('https://')
-    end
-  
-    def read_yaml(opts = {})
-      return if opts[:file].nil?
-      YAML.load_file File.join(File.dirname(__FILE__), 'yaml', "#{opts[:file]}.yaml") 
     end
   
 end
