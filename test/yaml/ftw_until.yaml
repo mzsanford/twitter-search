@@ -1,98 +1,190 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 802885681
-next_page: ?page=2&max_id=802885681&q=ftw+until%3A2008-05-03
+max_id: 1800191676
+next_page: ?page=2&max_id=1800191676&q=ftw+until%3A2009-05-14
 page: 1
-query: ftw until:2008-05-03
+query: ftw+until%3A2009-05-14
 results: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 03 May 2008 23:57:38 +0000
-  from_user: fourlittlebees
-  id: 802884711
+  created_at: Thu, 14 May 2009 23:11:46 +0000
+  from_user: laylapwnsyou
+  from_user_id: 14925778
+  id: 1800191676
+  iso_language_code: en
   language: en
-  text: "@fredericl For real? Go Ballmer FTW! Can't wait to see what Yahoo stock does on Monday."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/210796554/IMG00077_copy_normal.png
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: |-
+    #theoffice ftw! ;D
+    gonna watch 2night.
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 03 May 2008 23:53:06 +0000
-  from_user: Jaysin
-  id: 802882859
+  created_at: Thu, 14 May 2009 23:11:35 +0000
+  from_user: tombennett09
+  from_user_id: 16847021
+  id: 1800190036
+  iso_language_code: en
   language: en
-  text: Leopard install and BSG ftw
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/209819610/untitled_normal.JPG
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: According to Madame B, the french sac is post-poned! FML FTW!
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 03 May 2008 23:51:36 +0000
-  from_user: davidgrove
-  id: 802882248
+  created_at: Thu, 14 May 2009 23:11:04 +0000
+  from_user: InMyPANTS
+  from_user_id: 1125180
+  id: 1800185326
+  iso_language_code: en
   language: en
-  text: "@SPRSkip Tony Stewart FTW. Burton, E Jr, Gordon, Harvick. The rest of the Top-5."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/125037724/GLTReedPantsS07Big_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "(@Tweet_douche) Hey everybody!  Jizz in my pants!  LOL OMG FTW ROFL #notmyjoke"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 03 May 2008 23:46:26 +0000
-  from_user: MarkOfTheDead
-  id: 802880082
+  created_at: Thu, 14 May 2009 23:11:02 +0000
+  from_user: PaparazzLi
+  from_user_id: 8527035
+  id: 1800184978
+  iso_language_code: en
   language: en
-  text: Quad vod ftw!
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/187702820/n11100467_30806659_9092_normal.jpg
+  source: "&lt;a href=&quot;http://twitterhelp.blogspot.com/2008/05/twitter-via-mobile-web-mtwittercom.html&quot;&gt;mobile web&lt;/a&gt;"
+  text: "@Vinces1214 lol yea mannn we'd be too cool as neighbors &quot;FTW&quot; indeed! lol"
+  to_user: Vinces1214
+  to_user_id: 5516171
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 03 May 2008 23:44:55 +0000
-  from_user: toddlittle
-  id: 802879292
-  language: lt
-  text: oh yeah, Bonehead's piri piri ftw
+  created_at: Thu, 14 May 2009 23:10:59 +0000
+  from_user: ArgoShots
+  from_user_id: 7708516
+  id: 1800184537
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/103960425/me-fair1_normal.jpg
+  source: "&lt;a href=&quot;http://www.tumblr.com/&quot;&gt;Tumblr&lt;/a&gt;"
+  text: Homemade chicken fried-rice FTW! http://tumblr.com/xu91s8jac
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 03 May 2008 23:44:31 +0000
-  from_user: breakbeat
-  id: 802879156
+  created_at: Thu, 14 May 2009 23:10:52 +0000
+  from_user: pwheat
+  from_user_id: 45895
+  id: 1800183492
+  iso_language_code: "no"
+  language: "no"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/53540447/n571776353_5037_normal.jpg
+  source: "&lt;a href=&quot;http://code.google.com/p/wittytwitter/&quot;&gt;Witty&lt;/a&gt;"
+  text: Kirkland AA's FTW.
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:10:42 +0000
+  from_user: Tweet_douche
+  from_user_id: 11349264
+  id: 1800181934
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/136584807/DSC01209cend_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "Hey everybody!  Jizz in my pants!  LOL OMG FTW ROFL #notmyjoke"
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:10:07 +0000
+  from_user: p014k
+  from_user_id: 254227
+  id: 1800176463
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/53006143/befunky_normal.png
+  source: "&lt;a href=&quot;http://www.chrisfinke.com/addons/twitterbar/&quot;&gt;TwitterBar&lt;/a&gt;"
+  text: "An octopus thrown during the national anthem FTW. Go #redwings !!!"
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:09:54 +0000
+  from_user: bonezpresley
+  from_user_id: 7432583
+  id: 1800174514
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/100320642/sicrnPKD8jrb0jr4AZ031Jh6o1_500_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@ianlaird java chip frapps ftw man"
+  to_user: IanLaird
+  to_user_id: 5939648
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:09:36 +0000
+  from_user: Bigky226
+  from_user_id: 755861
+  id: 1800171901
+  iso_language_code: fr
   language: fr
-  text: CSI series 8 ftw!
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/55771194/smoke_2_normal.jpg
+  source: "&lt;a href=&quot;http://twitterfon.net/&quot;&gt;TwitterFon&lt;/a&gt;"
+  text: Diffuser ftw
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 03 May 2008 23:44:02 +0000
-  from_user: markdavidson
-  id: 802878985
-  language: it
-  text: "@JolieODell Condescending geeks FTW!"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 03 May 2008 23:42:02 +0000
-  from_user: timothybriner
-  id: 802878126
+  created_at: Thu, 14 May 2009 23:09:13 +0000
+  from_user: stroughtonsmith
+  from_user_id: 815309
+  id: 1800168514
+  iso_language_code: en
   language: en
-  text: Just loaded film at 80mph. Ftw!
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/178035832/Picture_1173_normal.png
+  source: "&lt;a href=&quot;http://www.atebits.com/&quot;&gt;Tweetie&lt;/a&gt;"
+  text: "@rasafrasa Sure, if you *like* Orcs and demons. Starcraft 2 doesn't impress me either, though I loved the original. 2D ftw"
+  to_user: RasaFrasa
+  to_user_id: 1008655
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 03 May 2008 23:41:24 +0000
-  from_user: jgeogh01
-  id: 802877885
+  created_at: Thu, 14 May 2009 23:09:10 +0000
+  from_user: PootingMangoes
+  from_user_id: 12824597
+  id: 1800168089
+  iso_language_code: en
   language: en
-  text: Screw you canada, flyers ftw.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/188562898/Snapshot_20090427_2_normal.jpg
+  source: "&lt;a href=&quot;http://www.flock.com/&quot;&gt;Flock&lt;/a&gt;"
+  text: hardstyle ftw! (just in case you didn't know, that's a type of music)
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 03 May 2008 23:36:23 +0000
-  from_user: blakeshannon
-  id: 802875773
+  created_at: Thu, 14 May 2009 23:09:08 +0000
+  from_user: IanMorr
+  from_user_id: 2541964
+  id: 1800167658
+  iso_language_code: da
+  language: da
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/200211038/HPIM0452_normal.JPG
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@MsKae Central Market FTW!"
+  to_user: MsKae
+  to_user_id: 3592536
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:09:02 +0000
+  from_user: etb_writes
+  from_user_id: 783734
+  id: 1800166841
+  iso_language_code: en
   language: en
-  text: Iron man ftw
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/67508107/me_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Writing curriculum for some creative arts camps for kids this summer. Create Your Own Fairy Tales FTW!
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 03 May 2008 23:33:33 +0000
-  from_user: WiredPig
-  id: 802874536
-  language: en
-  text: 1955 unread emails.. FTW!
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 03 May 2008 23:28:37 +0000
-  from_user: ladyproxy
-  id: 802872403
-  language: en
-  text: "AmazonUnbox: Downloading The Machinist. Ready to watch in 25 minutes. I liked this odd movie. AmazonUnbox ftw."
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 03 May 2008 23:28:10 +0000
-  from_user: KristenTilley
-  id: 802872231
-  language: en
-  text: Iron Man, lowercased, my new shoes, first bbq of the year, diggnation and beer FTW
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 03 May 2008 23:24:12 +0000
-  from_user: Torikins0
-  id: 802870637
-  language: en
-  text: "BLOG INSIDE JOKES FTW: testing my new signatureCOOLNESS!!!btwyou wont know most of thesethey are fr.. http://tinyurl.com/5dhtwg"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 03 May 2008 23:20:16 +0000
-  from_user: theyoungfolks
-  id: 802868948
-  language: pl
-  text: POWER NAP FTW
+  created_at: Thu, 14 May 2009 23:08:58 +0000
+  from_user: joshaber
+  from_user_id: 52688
+  id: 1800166253
+  iso_language_code: "no"
+  language: "no"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/51700942/iconbg_bigger_normal.jpg
+  source: "&lt;a href=&quot;http://www.atebits.com/&quot;&gt;Tweetie&lt;/a&gt;"
+  text: arg interpreted languages annoy me... compilers ftw
+  to_user: 
+  to_user_id: 
 results_per_page: 15
 since_id: 0

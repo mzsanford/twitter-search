@@ -1,98 +1,190 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859242726
-next_page: ?page=2&max_id=859242726&q=beer+-root
+max_id: 1800190915
+next_page: ?page=2&max_id=1800190915&q=beer+-root
 page: 1
-query: beer -root
+query: beer+-root
 results: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:18:35 +0000
-  from_user: Simplysara
-  id: 859242726
+  created_at: Thu, 14 May 2009 23:11:41 +0000
+  from_user: MissSon
+  from_user_id: 11505136
+  id: 1800190915
+  iso_language_code: en
   language: en
-  text: "@Dave0587 taco bell is only good after consuming a case of beer."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/137864595/sonjudge_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Into the mountains tomorrow for May long...Kimblery BC here we come! Now if I could only find my beer stein...
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:17:29 +0000
-  from_user: MBloomfield
-  id: 859241760
+  created_at: Thu, 14 May 2009 23:11:40 +0000
+  from_user: KevinKolb
+  from_user_id: 108586
+  id: 1800190725
+  iso_language_code: en
   language: en
-  text: Just saw a deer walking around downtown Boulder (18th and Spruce).  I think he was heading to the Mtn. Sun for a beer.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/104235562/90186114_N00_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "I remember when you wouldn't go get a beer when the Saints were on defense. #fb"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:16:11 +0000
-  from_user: ReverendThor
-  id: 859240549
+  created_at: Thu, 14 May 2009 23:11:39 +0000
+  from_user: chrisbarrettpic
+  from_user_id: 3774875
+  id: 1800190598
+  iso_language_code: en
   language: en
-  text: "@puppetmstr offer him a beer. He'll need it."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/133917751/me_normal.jpg
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "hey everyone! #chicago Did everyone get outside today? Good night for a beer!"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:14:25 +0000
-  from_user: soymokey
-  id: 859238969
+  created_at: Thu, 14 May 2009 23:11:36 +0000
+  from_user: shonryan
+  from_user_id: 2493984
+  id: 1800190203
+  iso_language_code: en
   language: en
-  text: Ghetto home projects go well with beer.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/140442772/l_251e25897c63489f8751fcc66889a83c_normal.jpg
+  source: "&lt;a href=&quot;http://help.twitter.com/index.php?pg=kb.page&amp;id=75&quot;&gt;txt&lt;/a&gt;"
+  text: "@Joshandrewbrown Yea some beer would probably help with that."
+  to_user: Joshandrewbrown
+  to_user_id: 3497590
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:12:33 +0000
-  from_user: jefforr
-  id: 859237451
+  created_at: Thu, 14 May 2009 23:11:34 +0000
+  from_user: RachelBlack_
+  from_user_id: 11530004
+  id: 1800189911
+  iso_language_code: en
   language: en
-  text: Having a beer with watson
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/205880774/55411adrianalima123435lde2_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@werewolf_paul Are you old enough to buy beer?"
+  to_user: werewolf_paul
+  to_user_id: 10622132
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:10:44 +0000
-  from_user: flyingdog
-  id: 859236008
+  created_at: Thu, 14 May 2009 23:11:34 +0000
+  from_user: mattalyst
+  from_user_id: 1194219
+  id: 1800189882
+  iso_language_code: en
   language: en
-  text: "Photos from our sold out beer and cheese pairing event: http://tinyurl.com/6m7e8p"
+  profile_image_url: http://static.twitter.com/images/default_profile_normal.png
+  source: "&lt;a href=&quot;http://orangatame.com/products/twitterberry/&quot;&gt;TwitterBerry&lt;/a&gt;"
+  text: "Just bought beer (for me) for the first in in...a decade? Current mood: dirty"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:10:43 +0000
-  from_user: MattMusgrave
-  id: 859235987
+  created_at: Thu, 14 May 2009 23:11:30 +0000
+  from_user: DRUNKENONE
+  from_user_id: 16765690
+  id: 1800189273
+  iso_language_code: en
   language: en
-  text: "@michelledenise I'm sure you'll have fun there too. Kind of hard not to with that much beer around. Make sure to at least hit Halloween."
+  profile_image_url: http://static.twitter.com/images/default_profile_normal.png
+  source: "&lt;a href=&quot;http://help.twitter.com/index.php?pg=kb.page&amp;id=75&quot;&gt;txt&lt;/a&gt;"
+  text: Ahhh the first cold beer after a looong boring day at wk. Heaven
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:07:42 +0000
-  from_user: ahoapap
-  id: 859233267
+  created_at: Thu, 14 May 2009 23:11:28 +0000
+  from_user: stunned_beef
+  from_user_id: 418591
+  id: 1800188938
+  iso_language_code: en
   language: en
-  text: Calling upon the power of beer to help me through the microsite.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/129353754/Photo_71_normal.jpg
+  source: "&lt;a href=&quot;http://help.twitter.com/index.php?pg=kb.page&amp;id=75&quot;&gt;txt&lt;/a&gt;"
+  text: Enjoying a little drunk on, even though I gave up beer on Sunday. And, going to dance lessons! ...Mighty late, I should add.
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:06:21 +0000
-  from_user: matthewsmith
-  id: 859232170
+  created_at: Thu, 14 May 2009 23:11:27 +0000
+  from_user: benitOH
+  from_user_id: 4610262
+  id: 1800188724
+  iso_language_code: en
   language: en
-  text: "@ndoz I actually like the O'Fallon pumpkin better at the beer festival.  Although, the Schlafly pumpkin is delicious."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/136482849/aaw_normal.jpg
+  source: "&lt;a href=&quot;http://help.twitter.com/index.php?pg=kb.page&amp;id=75&quot;&gt;txt&lt;/a&gt;"
+  text: My fucking college neighbors are playing beer pong, except with vodka and blasting Britney Spears. I'm actually kinda jealous.
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:06:07 +0000
-  from_user: Essitam
-  id: 859231979
-  language: eo
-  text: Nom nom nom wagamamas! Tiger Beer and japanese rice!
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:05:39 +0000
-  from_user: patrozoo
-  id: 859231586
-  language: nl
-  text: "Aahh. Listening to Markus Krungeg\xC3\xA5rds album \"Markusevangeliet\" and drinking beer :)"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:05:18 +0000
-  from_user: puppetmstr
-  id: 859231251
+  created_at: Thu, 14 May 2009 23:11:26 +0000
+  from_user: WCGrill
+  from_user_id: 8891238
+  id: 1800188679
+  iso_language_code: en
   language: en
-  text: 2 hours in Bed Bath and Beyond.  At Smokey Bones now, drinking beer.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/187274489/White_Choc_Logo_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Enjoy Happy Hour at WCG! Monday-Friday between 4pm-7pm. Great specialty drink, wine and draft beer prices and delicious Happy Hour food.
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:04:43 +0000
-  from_user: fashionprincess
-  id: 859230695
+  created_at: Thu, 14 May 2009 23:11:23 +0000
+  from_user: FATJEFF
+  from_user_id: 2877850
+  id: 1800188203
+  iso_language_code: en
   language: en
-  text: "Piven\xE2\x80\x99s Bud \xE2\x80\x94 Can I Have One Beer, To Go?: Filed under: Celebrity Justice, Entourage .. http://tinyurl.com/57uknt"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/207721129/NICE_AVATAR_normal.jpg
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "@swamwine RT @BeerAdvocate: What is black, hoppy &amp; full bodied? Mad River Serious Madness. #beer http://twitpic.com/56fxq FJ: Got this Jill?"
+  to_user: swamwine
+  to_user_id: 10770818
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:04:03 +0000
-  from_user: gabif01
-  id: 859230192
-  language: nl
-  text: Drinking a beer http://snipurl.com/2z29o
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:04:02 +0000
-  from_user: BrianKeene
-  id: 859230182
+  created_at: Thu, 14 May 2009 23:11:20 +0000
+  from_user: Ashler87
+  from_user_id: 5562765
+  id: 1800187731
+  iso_language_code: en
   language: en
-  text: Hooray. My membership as an Active member of the International Thriller Writers organization was just approved. I hope they have beer...
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/152425941/twitter_pic_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: |-
+    only one more exam to go! 
+    then its relaxing and my first beer gardens :)
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:11:05 +0000
+  from_user: cdizzle254
+  from_user_id: 5232038
+  id: 1800185574
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/112055186/twitter_icon_normal_normal.png
+  source: "&lt;a href=&quot;http://web.mac.com/a_weekes/andrew.weekes.com/my_apps.html&quot;&gt;Twitterena&lt;/a&gt;"
+  text: Nothing like a cold beer after some manual labor.
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:10:58 +0000
+  from_user: ponyhead
+  from_user_id: 3256672
+  id: 1800184493
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/69439407/twitter_normal.jpg
+  source: "&lt;a href=&quot;http://twitterhelp.blogspot.com/2008/05/twitter-via-mobile-web-mtwittercom.html&quot;&gt;mobile web&lt;/a&gt;"
+  text: It's do-or-play-golf time. GO WINGS!! I need beer for this one :-z ...
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:10:54 +0000
+  from_user: mtrobie
+  from_user_id: 10183288
+  id: 1800183839
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/187467260/mewedding_normal.jpg
+  source: "&lt;a href=&quot;http://twitterhelp.blogspot.com/2008/05/twitter-via-mobile-web-mtwittercom.html&quot;&gt;mobile web&lt;/a&gt;"
+  text: is having beer, which is good
+  to_user: 
+  to_user_id: 
 results_per_page: 15
 since_id: 0

@@ -1,98 +1,188 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859242863
-next_page: ?page=2&max_id=859242863&q=Obama
+max_id: 1800191727
+next_page: ?page=2&max_id=1800191727&q=Obama
 page: 1
 query: Obama
 results: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:18:44 +0000
-  from_user: guffman32
-  id: 859242863
+  created_at: Thu, 14 May 2009 23:11:46 +0000
+  from_user: davidcharns
+  from_user_id: 1162193
+  id: 1800191727
+  iso_language_code: en
   language: en
-  text: Obama has now become my favorite candidate ever based on the fact Wilco is his favorite band...awesome!
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/199032986/fgdsg_normal.jpg
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "Good piece on Obama and gay marriage: http://bit.ly/pIrS2 @huffpost"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:17:51 +0000
-  from_user: Zstasiuk
-  id: 859242093
+  created_at: Thu, 14 May 2009 23:11:46 +0000
+  from_user: farkpolitics
+  from_user_id: 116315
+  id: 1800191598
+  iso_language_code: en
   language: en
-  text: "\"I'm not voting for Obama--he's a commie\"  The Big-O has an uphill struggle this fall."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/38394362/fark-politics_normal.jpg
+  source: "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;"
+  text: "Dick Cheney: Torture worked. Don't believe me? Look at the CIA memos. Obama administration: Yeah, about that? So.. http://tinyurl.com/oo2v6p"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:17:36 +0000
-  from_user: apollo18
-  id: 859241865
+  created_at: Thu, 14 May 2009 23:11:41 +0000
+  from_user: WorldPolitics
+  from_user_id: 11430516
+  id: 1800190900
+  iso_language_code: en
   language: en
-  text: watching Obama's foreign policy speech
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/133762055/5_5beautiful7_430_normal.jpg
+  source: "&lt;a href=&quot;http://www.joedolson.com/articles/wp-to-twitter/&quot;&gt;WP to Twitter&lt;/a&gt;"
+  text: "NDP off to help Obama in health-care fight http://cli.gs/NzdtjQ #LinkTweet"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:16:35 +0000
-  from_user: twaboutMCCAIN
-  id: 859240966
+  created_at: Thu, 14 May 2009 23:11:34 +0000
+  from_user: aliciame
+  from_user_id: 12570341
+  id: 1800189925
+  iso_language_code: en
   language: en
-  text: twaboutMCCAIN> [Videos] http://tinyurl.com/5hew86 McCain Criticizes Obama On Immig.. http://tinyurl.com/6nxsst
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/146502686/Alicia-retouched2-bw_normal.jpg
+  source: "&lt;a href=&quot;http://www.sharethis.com&quot;&gt;ShareThis.com&lt;/a&gt;"
+  text: "Urban Style Examiner: Michelle Obama to be honored at the 2009 CFDA Awards - http://tinyurl.com/r8sjyt"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:16:20 +0000
-  from_user: top_war
-  id: 859240716
+  created_at: Thu, 14 May 2009 23:11:30 +0000
+  from_user: hotheadlines
+  from_user_id: 13788107
+  id: 1800189239
+  iso_language_code: en
   language: en
-  text: "d: Obama: Focus on Iraq Diminishes U.S. Security - WSJ.com: So let me get this straight - Afghanistan i.. http://tinyurl.com/5d4o6u"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/200975816/twitter_normal.gif
+  source: "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;"
+  text: Obama Looks at Closing (and Reopening) Failing Schools http://tinyurl.com/oxcg7l
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:16:08 +0000
-  from_user: iavdavid
-  id: 859240492
+  created_at: Thu, 14 May 2009 23:11:28 +0000
+  from_user: solidadrocks
+  from_user_id: 5993542
+  id: 1800189007
+  iso_language_code: en
   language: en
-  text: "Idiot alert: American Electorate \"Obama was raised as a Muslim\" 39% think yes. See Question 16. http://www.newsweek.com/id/145556"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/155295243/solidad_gradated_red_filter_5.11.2_normal.png
+  source: "&lt;a href=&quot;http://www.atebits.com/&quot;&gt;Tweetie&lt;/a&gt;"
+  text: If Obama is 1/2 the conservative the MSM and some members of the GOP are portraying him as, this is a complete and total breach of trust...
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:15:51 +0000
-  from_user: GSSP
-  id: 859240225
-  language: en
-  text: "[Videos] http://tinyurl.com/67b42k Bond: Obama's rise 'a high point'"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:15:38 +0000
-  from_user: neuekrone
-  id: 859240006
-  language: de
-  text: "Obama will Al Kaida in Afghanistan besiegen: In einer Grundsatzrede zur Irak-Politik hat der demokratis.. http://tinyurl.com/5tym3m"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:15:30 +0000
-  from_user: GSSP
-  id: 859239899
-  language: en
-  text: "[Videos] http://tinyurl.com/5hew86 McCain Criticizes Obama On Immigration"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:15:15 +0000
-  from_user: fantomplanet
-  id: 859239676
-  language: en
-  text: "Classmate's mom housing an Obama supporter. Spurred idea of hosting volunteers from each campain for entertainment values. #bunk #beds."
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:14:57 +0000
-  from_user: bradypodion
-  id: 859239375
-  language: de
-  text: "Obama k\xC3\xBCndigt harten Kurs gegen Iran an : Neuausrichtung im Kampf gegen Terror http://tinyurl.com/6hrevj"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:14:11 +0000
-  from_user: RobertBluey
-  id: 859238761
+  created_at: Thu, 14 May 2009 23:11:27 +0000
+  from_user: davidcharns
+  from_user_id: 1162193
+  id: 1800188715
+  iso_language_code: es
   language: es
-  text: "[del.icio.us] Obama's Liberal Buddies = 'Non-Partisan' Experts? - Rich Noyes, NewsBuster.. http://tinyurl.com/69o9jf"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/199032986/fgdsg_normal.jpg
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "Good piece on Obama and gay marriage: http://bit.ly/pIrS2"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:13:21 +0000
-  from_user: alberton
-  id: 859238109
+  created_at: Thu, 14 May 2009 23:11:22 +0000
+  from_user: ceabaird
+  from_user_id: 2125600
+  id: 1800188076
+  iso_language_code: en
   language: en
-  text: "Making It - how Chicago shaped Obama. A great read from the New Yorker: http://tinyurl.com/62t6x7"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/193497472/gilly_normal.jpg
+  source: "&lt;a href=&quot;http://twitterrific.com&quot;&gt;Twitterrific&lt;/a&gt;"
+  text: "@plutoniumpage thanks, Obama &amp; the chicken little democrats - way to stick up for yer principles re: torture"
+  to_user: plutoniumpage
+  to_user_id: 3185443
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:13:14 +0000
-  from_user: Khouryp
-  id: 859238015
+  created_at: Thu, 14 May 2009 23:11:21 +0000
+  from_user: Politisite
+  from_user_id: 3272748
+  id: 1800187897
+  iso_language_code: en
   language: en
-  text: every speech I hear from Obama makes me that much more sure that he will make a great president.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/69090385/politisitesqare_normal.jpg
+  source: "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;"
+  text: "(Politisite) --#tcot Senators drop objections to Obama's CFTC nominee: WASHINGTON (Reuters) .. http://tinyurl.com/rdmc24"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:13:13 +0000
-  from_user: dantesweatt
-  id: 859237998
+  created_at: Thu, 14 May 2009 23:11:21 +0000
+  from_user: dannowicki
+  from_user_id: 16935703
+  id: 1800187814
+  iso_language_code: en
   language: en
-  text: If u r in a position to listen to NPR right now, do it!  they r talking about the obama new yorker cover.  THE WORLD'S GONE CRAZY!
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/212266305/Dan_Nowicki_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "Thanks to all who followed our tweets from President Obama's speech at ASU on Wednesday. Complete coverage here: http://tiny.cc/ts1Rn"
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:11:20 +0000
+  from_user: fleckman
+  from_user_id: 1279819
+  id: 1800187708
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/125323154/Peter_profile_normal.JPG
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "@joewo Oh I agree.  But you do know that Obama wouldn't have been elected then right? #tcot"
+  to_user: joewo
+  to_user_id: 599032
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:11:19 +0000
+  from_user: bernieandreu
+  from_user_id: 6131510
+  id: 1800187521
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/87881606/boy_normal.jpg
+  source: "&lt;a href=&quot;http://twitterfon.net/&quot;&gt;TwitterFon&lt;/a&gt;"
+  text: What is up with President Obama? No   photos, no single pay on the table? He chooses not to try the change? I smell a grassroots teaparty?
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:11:18 +0000
+  from_user: madamehersi
+  from_user_id: 12419741
+  id: 1800187398
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/192525212/100_2754_normal.JPG
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: ATTENTION PERVERTS porn industry is trying to use racism to get profit..can u say 'obama effect'.sad but a cruel reality http://bit.ly/KiycO
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:11:10 +0000
+  from_user: G_Rhae
+  from_user_id: 13456040
+  id: 1800186189
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/210044193/me_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: RT @B_Real420 EVERYONE RETWEET --&gt; Obama is considering. Call now to vote on legalization of Marijuana (973) 409-3274
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:11:04 +0000
+  from_user: MikeyT21
+  from_user_id: 9891380
+  id: 1800185301
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/114752148/me_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Call this number if you like to smoke EVERYONE RETWEET -&gt; Obama is considering. Call now to vote on legalization of Marijuana (973) 409-3274
+  to_user: 
+  to_user_id: 
 results_per_page: 15
 since_id: 0

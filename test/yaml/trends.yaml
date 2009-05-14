@@ -1,7 +1,34 @@
 --- !ruby/object:TwitterSearch::Trends 
-as_of: 1242339160
-trends:
-  "2009-05-14 22:12:40":
-- !ruby/object:TwitterSearch::Trend
-     name: trend1
-     query: trend1
+date: 2009-05-14 16:20:34 -07:00
+exclude_hashtags: false
+trends: 
+- !ruby/object:TwitterSearch::Trend 
+  name: "#bbcqt"
+  query: "#bbcqt"
+- !ruby/object:TwitterSearch::Trend 
+  name: Soulja Boy Tell 'Em
+  query: "\"Soulja Boy Tell 'Em\""
+- !ruby/object:TwitterSearch::Trend 
+  name: "#whyitweet"
+  query: "#whyitweet"
+- !ruby/object:TwitterSearch::Trend 
+  name: Grey's Anatomy
+  query: "\"Grey's Anatomy\""
+- !ruby/object:TwitterSearch::Trend 
+  name: Star Trek
+  query: "\"Star Trek\""
+- !ruby/object:TwitterSearch::Trend 
+  name: "#theoffice"
+  query: "#theoffice"
+- !ruby/object:TwitterSearch::Trend 
+  name: "#GoogleFail"
+  query: "#GoogleFail"
+- !ruby/object:TwitterSearch::Trend 
+  name: "#fixreplies"
+  query: "#fixreplies"
+- !ruby/object:TwitterSearch::Trend 
+  name: "#jonaslive"
+  query: "#jonaslive"
+- !ruby/object:TwitterSearch::Trend 
+  name: Question Time
+  query: "\"Question Time\""

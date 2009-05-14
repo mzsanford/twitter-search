@@ -1,98 +1,188 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859242898
-next_page: ?page=2&max_id=859242898&q=to%3Atechcrunch
+max_id: 1800030084
+next_page: ?page=2&max_id=1800030084&q=to%3Atechcrunch
 page: 1
-query: to:techcrunch
+query: to%3Atechcrunch
 results: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:18:46 +0000
-  from_user: noahfleming
-  id: 859242898
+  created_at: Thu, 14 May 2009 22:53:52 +0000
+  from_user: glduncan
+  from_user_id: 17066076
+  id: 1800030084
+  iso_language_code: en
   language: en
-  text: "@TechCrunch im an entrepreneur that enjoys my sleep, it's all about the 4 hour work week these days not the 20 hour day.."
+  profile_image_url: http://static.twitter.com/images/default_profile_normal.png
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@TechCrunch GeeksonaPlane is a very cool idea"
+  to_user: TechCrunch
+  to_user_id: 627
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:14:27 +0000
-  from_user: aarjav
-  id: 859238993
+  created_at: Thu, 14 May 2009 22:51:31 +0000
+  from_user: glduncan
+  from_user_id: 17066076
+  id: 1800009390
+  iso_language_code: en
   language: en
-  text: "@TechCrunch \"Perhaps some enterprising vc will start requiring founders of their companies to get a prescription\" Stop giving them ideas man"
+  profile_image_url: http://static.twitter.com/images/default_profile_normal.png
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@TechCrunch - amazing Amazon wouldn't have noticed something like that rather quickly"
+  to_user: TechCrunch
+  to_user_id: 627
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:13:51 +0000
-  from_user: knightsicre
-  id: 859238467
+  created_at: Thu, 14 May 2009 22:19:02 +0000
+  from_user: tophatdog
+  from_user_id: 10332504
+  id: 1799713488
+  iso_language_code: en
   language: en
-  text: "@TechCrunch awesome.  SWSD is definitely a start-up disease"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/126417030/Aamira_with_mic__fav_pic_copy_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@TechCrunch  Plz RT info on how 2 donate 4 Scooter's rising vet bill, over $1k now, I've paid $500, need help http://twitpic.com/54fos"
+  to_user: TechCrunch
+  to_user_id: 627
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:09:12 +0000
-  from_user: glenstansberry
-  id: 859234603
-  language: en
-  text: "@TechCrunch Naturally. They just couldn't be happy with massive FREE PR, could they? ;)"
+  created_at: Thu, 14 May 2009 22:13:29 +0000
+  from_user: karlee2017
+  from_user_id: 16966707
+  id: 1799662015
+  iso_language_code: pl
+  language: pl
+  profile_image_url: http://static.twitter.com/images/default_profile_normal.png
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@TechCrunch kool"
+  to_user: TechCrunch
+  to_user_id: 627
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:16:27 +0000
-  from_user: msg
-  id: 859188503
+  created_at: Thu, 14 May 2009 22:11:22 +0000
+  from_user: mema2620
+  from_user_id: 6674084
+  id: 1799642440
+  iso_language_code: en
   language: en
-  text: "@techcrunch i think you did a solid job interviewing @ev pre: twitter + summize acquisition http://bit.ly/3RKU2d"
+  profile_image_url: http://static.twitter.com/images/default_profile_normal.png
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@TechCrunch  if you dont have 3G network in area can you still use the MiFi that Verizon is coming out with????"
+  to_user: TechCrunch
+  to_user_id: 627
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:13:32 +0000
-  from_user: jhawk86
-  id: 859185713
-  language: en
-  text: "@TechCrunch do you think that's a function of the traditional news media picking up on the fact that Digg has become so popular?"
+  created_at: Thu, 14 May 2009 22:08:48 +0000
+  from_user: JuKa25
+  from_user_id: 17107607
+  id: 1799618286
+  iso_language_code: pl
+  language: pl
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/212214750/20_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@TechCrunch o"
+  to_user: TechCrunch
+  to_user_id: 627
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:58:58 +0000
-  from_user: sheatsb
-  id: 859172038
+  created_at: Thu, 14 May 2009 21:46:48 +0000
+  from_user: nodeal79
+  from_user_id: 6407723
+  id: 1799408837
+  iso_language_code: en
   language: en
-  text: "@TechCrunch oh, new media pushing people to look at old media? who would have known..."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/135845622/Ryantwitter_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.grader.com&quot;&gt;Twitter Grader&lt;/a&gt;"
+  text: "@techcrunch : Found you through Twitter Grader (http://twitter.grader.com)"
+  to_user: TechCrunch
+  to_user_id: 627
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:39:17 +0000
-  from_user: jimhirshfield
-  id: 859152739
+  created_at: Thu, 14 May 2009 20:58:26 +0000
+  from_user: newsgirlmw
+  from_user_id: 429994
+  id: 1798928668
+  iso_language_code: en
   language: en
-  text: "@techcrunch Need a little techcrunch50 luv for TalkingSocial please ;-)"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/54084884/thedeal.com_normal.png
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "@techcrunch @venturebeat @allleyinsider We talked to Sam Lessin of Drop.io not long ago for a video about new features  http://bit.ly/4PkE6"
+  to_user: TechCrunch
+  to_user_id: 627
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:32:00 +0000
-  from_user: marshallk
-  id: 859145419
+  created_at: Thu, 14 May 2009 20:37:54 +0000
+  from_user: adapru
+  from_user_id: 16785118
+  id: 1798718209
+  iso_language_code: en
   language: en
-  text: "@techcrunch interviewing Evan Williams at FOO camp about the forthcoming Summize announcement sure was a good idea."
+  profile_image_url: http://static.twitter.com/images/default_profile_normal.png
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@TechCrunch www.ajtechcenter.com"
+  to_user: TechCrunch
+  to_user_id: 627
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:29:28 +0000
-  from_user: bullyinguk
-  id: 859142845
+  created_at: Thu, 14 May 2009 20:32:40 +0000
+  from_user: nels4
+  from_user_id: 7617699
+  id: 1798664761
+  iso_language_code: en
   language: en
-  text: "@techcrunch http://blog.twitter.com/  Twitter Aquires Summize"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/180870675/misha_normal_normal.jpg
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "@TechCrunch  oprah has a million twitter followers and...................."
+  to_user: TechCrunch
+  to_user_id: 627
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:28:52 +0000
-  from_user: podcasthotel
-  id: 859142295
+  created_at: Thu, 14 May 2009 19:44:55 +0000
+  from_user: EdHudson
+  from_user_id: 276204
+  id: 1798388534
+  iso_language_code: en
   language: en
-  text: "@TechCrunch Well. @ev did tweet last night that it was going to be a big day."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/129472414/ed_normal.jpg
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "@TechCrunch From your own story, &quot;For some reason, Google re-routed some of its traffic to Asia and that caused a massive traffic jam.&quot;"
+  to_user: TechCrunch
+  to_user_id: 627
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 15:27:21 +0000
-  from_user: mterenzio
-  id: 859082556
+  created_at: Thu, 14 May 2009 19:44:09 +0000
+  from_user: EdHudson
+  from_user_id: 276204
+  id: 1798380749
+  iso_language_code: en
   language: en
-  text: "@techcrunch there is a bug on crunchbase - when filtering on the status of companies, I only get companies starting with the letter A"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/129472414/ed_normal.jpg
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "@TechCrunch No, the fault was not Asia's... it was GOOGLE'S fault. Why can't Goliath admit he screwed up? Google re-routed the traffic !!"
+  to_user: TechCrunch
+  to_user_id: 627
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 12:39:11 +0000
-  from_user: robdiana
-  id: 858941762
+  created_at: Thu, 14 May 2009 19:22:41 +0000
+  from_user: rightbrain
+  from_user_id: 658683
+  id: 1798163897
+  iso_language_code: en
   language: en
-  text: "@TechCrunch I believe journalists call this the tease."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/85531971/face4_normal.jpg
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "@techcrunch New gmail feature makes switching from other services a breeze: http://bit.ly/JJJHA"
+  to_user: TechCrunch
+  to_user_id: 627
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 12:36:04 +0000
-  from_user: chipro
-  id: 858939302
+  created_at: Thu, 14 May 2009 19:19:47 +0000
+  from_user: JeromeCalot
+  from_user_id: 9818473
+  id: 1798134185
+  iso_language_code: en
   language: en
-  text: "@TechCrunch Any hint?"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/119893890/jerome-calot_normal.jpg
+  source: "&lt;a href=&quot;http://www.atebits.com/&quot;&gt;Tweetie&lt;/a&gt;"
+  text: "@TechCrunch The number can change: I got 122.im and 181.im"
+  to_user: TechCrunch
+  to_user_id: 627
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 12:34:20 +0000
-  from_user: ShannonPalmer
-  id: 858938035
+  created_at: Thu, 14 May 2009 19:11:52 +0000
+  from_user: notarockstar79
+  from_user_id: 13027411
+  id: 1798055046
+  iso_language_code: en
   language: en
-  text: "@TechCrunch - Well that's just a tease!"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/202094305/kid_normal.jpg
+  source: "&lt;a href=&quot;http://www.twittergadget.com&quot;&gt;TwitterGadget&lt;/a&gt;"
+  text: "@TechCrunch I went from 0 to 1 in like a week and change."
+  to_user: TechCrunch
+  to_user_id: 627
 results_per_page: 15
 since_id: 0

@@ -21,6 +21,7 @@ gem_spec = Gem::Specification.new do |gem_spec|
   gem_spec.authors     = ["Dustin Sallings", "Dan Croak"]
   gem_spec.files       = FileList["[A-Z]*", "{generators,lib,shoulda_macros,rails}/**/*"]
   gem_spec.add_dependency('json', '>= 1.1.2')
+  gem_spec.add_dependency('fakeweb', '>= 1.2.0')
 end
 
 desc "Generate a gemspec file"
@@ -47,10 +48,10 @@ namespace :yaml do
     write_yaml :tweets => {:q => 'from:alexiskold'},                   :file => 'from_alexiskold'
     write_yaml :tweets => {:q => 'to:techcrunch'},                     :file => 'to_techcrunch'
     write_yaml :tweets => {:q => '@mashable'},                         :file => 'reference_mashable'
-    write_yaml :tweets => {:q => '"happy hour" near:"san francisco"'}, :file => 'happy_hour_near_sf'
-    write_yaml :tweets => {:q => 'near:NYC within:15mi'},              :file => 'within_15mi_nyc'
+    #write_yaml :tweets => {:q => '"happy hour" near:"san francisco"'}, :file => 'happy_hour_near_sf'
+    #write_yaml :tweets => {:q => 'near:NYC within:15mi'},              :file => 'within_15mi_nyc'
     write_yaml :tweets => {:q => 'superhero since:2008-05-01'},        :file => 'superhero_since'
-    write_yaml :tweets => {:q => 'ftw until:2008-05-03'},              :file => 'ftw_until'
+    write_yaml :tweets => {:q => 'ftw until:2009-05-14'},              :file => 'ftw_until'
     write_yaml :tweets => {:q => 'movie -scary :)'},                   :file => 'movie_positive_tude'
     write_yaml :tweets => {:q => 'flight :('},                         :file => 'flight_negative_tude'
     write_yaml :tweets => {:q => 'traffic ?'},                         :file => 'traffic_question'
@@ -58,13 +59,20 @@ namespace :yaml do
     write_yaml :tweets => {:q => 'congratulations', :lang => 'en'},    :file => 'english'
     write_yaml :tweets => {:q => 'با', :lang => 'ar'},                 :file => 'arabic'
     write_yaml :tweets => {:q => 'Boston Celtics', :rpp => '30'},      :file => 'results_per_page'
+    write_yaml :trends => true,                                        :file => 'trends'
   end
 end
 
 def write_yaml(opts = {})
   @client = TwitterSearch::Client.new 'twitter-search'
-  tweets  = @client.query(opts[:tweets])
+  val = nil
+  if opts[:trends]
+    val = @client.trends
+  else
+    val = @client.query(opts[:tweets])
+  end
+
   File.open(File.join(File.dirname(__FILE__), 'test', 'yaml', "#{opts[:file]}.yaml"), 'w+') do |file| 
-    file.puts tweets.to_yaml
+    file.puts val.to_yaml
   end
 end

@@ -1,98 +1,190 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859224005
-next_page: ?page=2&max_id=859224005&q=superhero+since%3A2008-05-01
+max_id: 1800140588
+next_page: ?page=2&max_id=1800140588&q=superhero+since%3A2008-05-01
 page: 1
-query: superhero since:2008-05-01
+query: superhero+since%3A2008-05-01
 results: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:56:28 +0000
-  from_user: teammummy
-  id: 859224005
+  created_at: Thu, 14 May 2009 23:06:07 +0000
+  from_user: CompanyWoman
+  from_user_id: 5122470
+  id: 1800140588
+  iso_language_code: en
   language: en
-  text: Dr. Horrible Act 1 was so sweet. I completely identified with him. and Nathan Fillion is the superhero prick!! AWESOME!
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/206896886/Yankee_Profile_Pic_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@MannyShadow Ah!  Yeah, he's pretty good at those crazy superhero catches.  He's a great story.  And he's giving back to the community too."
+  to_user: MannyShadow
+  to_user_id: 11151281
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:49:47 +0000
-  from_user: rithwik
-  id: 859218173
+  created_at: Thu, 14 May 2009 23:05:53 +0000
+  from_user: ohnonotjanet
+  from_user_id: 9582301
+  id: 1800138480
+  iso_language_code: eo
+  language: eo
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/155077218/0410092152_normal.jpg
+  source: "&lt;a href=&quot;http://twitterfon.net/&quot;&gt;TwitterFon&lt;/a&gt;"
+  text: Brisys &amp; davds superhero videos are hilarious!!!!!
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:05:32 +0000
+  from_user: Retii
+  from_user_id: 15421650
+  id: 1800135405
+  iso_language_code: en
   language: en
-  text: "IndiaTV: \"23rd Dec, 2012 ko duniya khatm ho jaayegi.\" Horrors! *shudder* Only 4 years to become a superhero.. :("
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/210331810/dpppp2_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Now watching the Superhero movie . :D
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:33:38 +0000
-  from_user: alainabee
-  id: 859203951
+  created_at: Thu, 14 May 2009 23:03:46 +0000
+  from_user: MannyShadow
+  from_user_id: 11151281
+  id: 1800119256
+  iso_language_code: en
   language: en
-  text: is a superhero. and can fly. says five year old cameron.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/92468158/jandrinsnow_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@CompanyWoman RT His history is really impressive but enough of the superhero catches already!"
+  to_user: CompanyWoman
+  to_user_id: 5122470
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:08:02 +0000
-  from_user: briguyblock
-  id: 859180704
+  created_at: Thu, 14 May 2009 23:02:34 +0000
+  from_user: cmoney09
+  from_user_id: 7582695
+  id: 1800108699
+  iso_language_code: en
   language: en
-  text: "@kirstenwright That sounds like a something a superhero group does. Twitterati....Twitterize!"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/106925144/silhouette-dancers-exp-01_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: tomorrows double screw up day, but I'll be on fire bustin out moves like my &quot;superhero&quot; hero comic for hum. Illustration class..big day 2mor
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:05:08 +0000
-  from_user: catfashion
-  id: 859177957
+  created_at: Thu, 14 May 2009 23:01:35 +0000
+  from_user: MannyShadow
+  from_user_id: 11151281
+  id: 1800099647
+  iso_language_code: en
   language: en
-  text: Wishes she was a superhero... Will have to settle for " Mom"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/92468158/jandrinsnow_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: His history is really impressive but enough of the superhero catches already!
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:56:35 +0000
-  from_user: athenahollow
-  id: 859169606
+  created_at: Thu, 14 May 2009 22:53:08 +0000
+  from_user: Wildmagister
+  from_user_id: 2504701
+  id: 1800023488
+  iso_language_code: en
   language: en
-  text: Normal life of a mother and housewife by day, sexily clad superhero by night.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/64853123/JuhaSimpson_normal.jpg
+  source: "&lt;a href=&quot;http://twitterfox.net/&quot;&gt;TwitterFox&lt;/a&gt;"
+  text: Very few superhero comics have ever really impressed me, but Astro City never fails to rock my world.
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:27:23 +0000
-  from_user: ARealGirl
-  id: 859140750
+  created_at: Thu, 14 May 2009 22:49:50 +0000
+  from_user: pacmanmc
+  from_user_id: 16137070
+  id: 1799993924
+  iso_language_code: en
   language: en
-  text: Should have left for the office 20 minutes ago, instead discussing the relative merits of superhero costumes vs. superhero powers with PKo.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/203051920/supernegger__2__normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: 4 months of shit then the superhero back
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 15:30:12 +0000
-  from_user: RichLovatt
-  id: 859085148
+  created_at: Thu, 14 May 2009 22:48:25 +0000
+  from_user: gijoe_stuff
+  from_user_id: 12502907
+  id: 1799981339
+  iso_language_code: en
   language: en
-  text: "@cyberpilate Being woodenest actor alive playing bendiest superhero? Hadn't thought of that! :)"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/145977486/gi3_normal.jpg
+  source: "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;"
+  text: |-
+    GI Joe: Season 1.1 Brings the Animated Action to DVD on July 21st - Superhero Flix (press release): 
+    Monsters a.. http://tinyurl.com/pa288r
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 15:01:49 +0000
-  from_user: jonk
-  id: 859058087
+  created_at: Thu, 14 May 2009 22:44:56 +0000
+  from_user: MichaelDeutch
+  from_user_id: 2429957
+  id: 1799949681
+  iso_language_code: en
   language: en
-  text: sleepy, reading about dark knight. not sure what possessed me to get tix for thursday's screening...superhero movies scare me!
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/70983836/MD_Doppel_80_x_80_normal.png
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "@Scobleizer Plenty of posts on using mindmaps 4 presentations in MIndjet's blog e.g. become a presentation superhero: http://twurl.nl/tucham"
+  to_user: Scobleizer
+  to_user_id: 10789
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 14:37:13 +0000
-  from_user: s_carolinaBNN
-  id: 859042262
+  created_at: Thu, 14 May 2009 22:43:09 +0000
+  from_user: kayckay
+  from_user_id: 2318893
+  id: 1799933639
+  iso_language_code: en
   language: en
-  text: "Rev. BigDumbChimp: A good night for Atheists: Well Josh Hamilton isn't the superhero for Christ tha.. http://tinyurl.com/6ma363"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/63696248/n7930805_47307526_910_normal.jpg
+  source: "&lt;a href=&quot;http://twitterrific.com&quot;&gt;Twitterrific&lt;/a&gt;"
+  text: this weather is making the city a superhero - one way by day and another by night...it's schizophrenic, really
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 14:24:49 +0000
-  from_user: JaeRobinson
-  id: 859030711
-  language: de
-  text: Watchin Superhero Movie. . .
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 13:31:03 +0000
-  from_user: dariomanoukian
-  id: 858982672
+  created_at: Thu, 14 May 2009 22:37:35 +0000
+  from_user: FRESHKUTAVE
+  from_user_id: 4453972
+  id: 1799882176
+  iso_language_code: en
   language: en
-  text: "@JimMcCann How about \"Calling out for a hero\" for the superhero fashion show?"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75906616/freshkutavelogo2_normal.jpg
+  source: "&lt;a href=&quot;http://alexking.org/projects/wordpress&quot;&gt;Twitter Tools&lt;/a&gt;"
+  text: "New blog post: SuperHero Beatdown http://bit.ly/ZOhl4"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 13:29:27 +0000
-  from_user: new_jerseyBNN
-  id: 858981315
+  created_at: Thu, 14 May 2009 22:37:09 +0000
+  from_user: riggledo
+  from_user_id: 5620632
+  id: 1799878081
+  iso_language_code: en
   language: en
-  text: "Rob Tornoe: Tom Toles: Superhero artist?: Go check it out here. [...] http://tinyurl.com/67utgq"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/203448896/Aisha_and_Me_normal.JPG
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@NathanFillion Oooo.  Wathca doing at DC?  Gonna play a superhero?  Which one?"
+  to_user: NathanFillion
+  to_user_id: 11600823
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 13:11:16 +0000
-  from_user: planetgeek
-  id: 858966190
-  language: es
-  text: "Glob-PT: Perdeu o telem\xC3\xB3vel? Mobile Superhero encontra-o! http://tinyurl.com/67yrct"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 13:04:43 +0000
-  from_user: cinematical
-  id: 858961040
+  created_at: Thu, 14 May 2009 22:30:50 +0000
+  from_user: Katynha
+  from_user_id: 10023280
+  id: 1799821019
+  iso_language_code: en
   language: en
-  text: "A Weird Full Trailer for 'The Spirit': Filed under: Lionsgate Films, Comic/Superhero/Geek, Trailers a.. http://tinyurl.com/5rwc24"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/211449311/0_0k4_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@samjmoody Sam, I've become a celebrity in Brazil. or a superhero... now everytime a fan is in danger of not going to a gig call SuperMcMum"
+  to_user: samjmoody
+  to_user_id: 10734706
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 22:23:28 +0000
+  from_user: flagusco
+  from_user_id: 232805
+  id: 1799753798
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/63725882/twitavatar_normal.png
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "@Willowbottom It's so easy confusing gamut for the well known, but poorly portrayed Marvel superhero in the  new Wolverine movie."
+  to_user: Willowbottom
+  to_user_id: 828005
 results_per_page: 15
 since_id: 800791688

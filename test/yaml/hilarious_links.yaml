@@ -1,98 +1,188 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859236745
-next_page: ?page=2&max_id=859236745&q=hilarious+filter%3Alinks
+max_id: 1800178300
+next_page: ?page=2&max_id=1800178300&q=hilarious+filter%3Alinks
 page: 1
-query: hilarious filter:links
+query: hilarious+filter%3Alinks
 results: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:11:38 +0000
-  from_user: pamelump
-  id: 859236745
+  created_at: Thu, 14 May 2009 23:10:18 +0000
+  from_user: openthink2
+  from_user_id: 7210142
+  id: 1800178300
+  iso_language_code: en
   language: en
-  text: "this is my friend, Cole ... hilarious: http://tinyurl.com/5g6v6z"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/96325813/rednotes__2__normal.jpg
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "RT @BarbaraBoser: RT @briancarter: Hilarious- 8 years of a guy's face as he ages, changes hair, etc. http://www.c71123.com/daily_photo/"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:58:04 +0000
-  from_user: thewaywegetby
-  id: 859225321
+  created_at: Thu, 14 May 2009 23:10:13 +0000
+  from_user: westhamfootball
+  from_user_id: 15365649
+  id: 1800177524
+  iso_language_code: en
   language: en
-  text: ahahaha on no, this webshow is hilarious. http://tinyurl.com/65ld6t
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/209223265/westhamfootball_normal.jpg
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: Saw this hilarious lonely heart ad in the Guardian from a west ham fan. Girls he has a sense of humour ! http://bit.ly/zoTTd
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:47:19 +0000
-  from_user: AustinTweets
-  id: 859215911
+  created_at: Thu, 14 May 2009 23:09:59 +0000
+  from_user: JohnGaltLives
+  from_user_id: 5241122
+  id: 1800175212
+  iso_language_code: en
   language: en
-  text: "slipaustin: Bacardi is going to be at my housewarming party with free mojitos = hilarious and awesom.. http://tinyurl.com/5uobxc"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/81215969/PanamaSteve_normal.jpg
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "RT @captblackeagle: This is my friend Bob.  http://bit.ly/1MoHO That's so stupid it's freakin hilarious!"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:42:29 +0000
-  from_user: ChristineGrafer
-  id: 859211670
+  created_at: Thu, 14 May 2009 23:09:56 +0000
+  from_user: WuTony
+  from_user_id: 6284763
+  id: 1800174742
+  iso_language_code: en
   language: en
-  text: This story is hilarious http://ap.google.com/article/ALeqM5hIteFdyrCaV232hhtNfj0xC7B5uQD91TC88G0
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/192194597/tonytwitter_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@April_Isabel is it bad that i find this seriously hilarious? http://bit.ly/YrJuQ"
+  to_user: April_Isabel
+  to_user_id: 3613882
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:31:56 +0000
-  from_user: virtuosity
-  id: 859202375
+  created_at: Thu, 14 May 2009 23:09:11 +0000
+  from_user: viga
+  from_user_id: 44302
+  id: 1800168238
+  iso_language_code: en
   language: en
-  text: Hilarious!  http://tinyurl.com/5q7wdv Reminds me of when I coined the phrase Grab Your Nuts! http://tinyurl.com/6zpl48
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/56766904/20932417534616b2b61cfd6_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Finished reading this. Wow...hilarious! http://bit.ly/KQIMa
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:27:43 +0000
-  from_user: csanchez
-  id: 859198866
+  created_at: Thu, 14 May 2009 23:08:45 +0000
+  from_user: ohnoway
+  from_user_id: 4549168
+  id: 1800164263
+  iso_language_code: en
   language: en
-  text: you need to know tagalog but it's hilarious http://tinyurl.com/5wxmpu
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/76528841/n205100409_31230330_1703_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: ooooooooooooomg hilarious!!!!! http://bit.ly/tcnk4
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:15:29 +0000
-  from_user: norton_fiction
-  id: 859187542
+  created_at: Thu, 14 May 2009 23:06:58 +0000
+  from_user: volnessj
+  from_user_id: 1559059
+  id: 1800148164
+  iso_language_code: en
   language: en
-  text: "Video Slideshow of photos from the filming of Body of Lies (book by David Ignatius) with hilarious \"Beat It\" soundtrack: http://rurl.org/v9l"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/194887830/DSC_0890copy_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: hahahahah i came home and opened Opera, and this hilarious porn showed up http://bit.ly/z0Xxy
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:38:50 +0000
-  from_user: importantshock
-  id: 859152277
+  created_at: Thu, 14 May 2009 23:04:48 +0000
+  from_user: jabbar_
+  from_user_id: 3204985
+  id: 1800128530
+  iso_language_code: en
   language: en
-  text: "Sorry, @codinghorror, but this is hilarious: http://tinyurl.com/6brnlq"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/141990489/wr_normal.jpeg
+  source: "&lt;a href=&quot;http://www.atebits.com/&quot;&gt;Tweetie&lt;/a&gt;"
+  text: http://tr.im/lnKE @azizansari is HILARIOUS. he needs more publicity.
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:15:51 +0000
-  from_user: christingom
-  id: 859129019
+  created_at: Thu, 14 May 2009 23:04:39 +0000
+  from_user: sammmer
+  from_user_id: 5018586
+  id: 1800127296
+  iso_language_code: en
   language: en
-  text: Watching the Buffet Song on Viddler. It's hilarious. http://www.viddler.com/explore/rhettandlink/videos/25/
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/79321209/square_normal.jpg
+  source: "&lt;a href=&quot;http://www.atebits.com/&quot;&gt;Tweetie&lt;/a&gt;"
+  text: thinks it's hilarious how the FDA punked General Mills. http://twitpic.com/56jm1
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:12:33 +0000
-  from_user: smashcut_media
-  id: 859125679
+  created_at: Thu, 14 May 2009 23:04:22 +0000
+  from_user: gromvar
+  from_user_id: 2752896
+  id: 1800124728
+  iso_language_code: en
   language: en
-  text: Hilarious 'hidden microphone transcripts' from Steve Jobs office building up to AppStore release care of @maxvoltar http://snipr.com/2z0dj
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/66092581/160561_large_normal.png
+  source: "&lt;a href=&quot;http://destroytwitter.com/&quot;&gt;DestroyTwitter&lt;/a&gt;"
+  text: "RT @dlprager: haha this pic of @kevinrose checking out his old eagle scout photos is hilarious (from diggnation 202) http://tr.im/eaglerose"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:00:22 +0000
-  from_user: melitami
-  id: 859113968
+  created_at: Thu, 14 May 2009 23:03:36 +0000
+  from_user: shop_office_pr2
+  from_user_id: 13014349
+  id: 1800117721
+  iso_language_code: en
   language: en
-  text: "Dr. Horrible: Act 1 was amusingly hilarious.  Highly recommend. http://www.drhorrible.com/  Now I'm off to find b'fast at the hotel."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/180350217/one_eye_s639015184_4481_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: http://5ver.com/7sop Guide To Perfect Weekends In Portland Oregon, Hilarious Tips For Visitors &amp; Locals In The ... http://is.gd/zVcF
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 15:56:53 +0000
-  from_user: dianamaria
-  id: 859110810
+  created_at: Thu, 14 May 2009 23:03:34 +0000
+  from_user: larzshinobi
+  from_user_id: 60016
+  id: 1800117448
+  iso_language_code: en
   language: en
-  text: "@mangeorge Hilarious! That's the motto of my late late blog: http://womanchildisdead.blogspot.com :)"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/105970197/twitter-larzshinobi_normal.jpg
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "RT @higoodbarry: Hilarious: Why waste a tantrum if no one can see you?  http://bit.ly/13zhgx"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 14:54:46 +0000
-  from_user: justinshattuck
-  id: 859051080
+  created_at: Thu, 14 May 2009 23:03:34 +0000
+  from_user: andywhatley
+  from_user_id: 2745806
+  id: 1800117430
+  iso_language_code: en
   language: en
-  text: thanks to @chrisfromthelc HOLY SHIT THIS HIS HILARIOUS!!! http://www.thewebsiteisdown.com/  YOU ALL MUST WATCH IT!
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/180753511/CAW_Best_Professional_Blacksmall_normal.png
+  source: "&lt;a href=&quot;http://www.stone.com/Twittelator&quot;&gt;Twittelator&lt;/a&gt;"
+  text: "RT @Agent_Que true.. http://xkcd.com/546/. This is hilarious  GPS location: http://bit.ly/rvZtW a"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 14:51:22 +0000
-  from_user: idiotprogrammer
-  id: 859047476
+  created_at: Thu, 14 May 2009 23:02:25 +0000
+  from_user: MegenSterba
+  from_user_id: 3835332
+  id: 1800107363
+  iso_language_code: en
   language: en
-  text: http://tinyurl.com/63cveq thiswebsiteisdown.com hilarious tech support 10 minute video. Wow, am speechless! (Semi-nsfw,btw)
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/72412775/n10801339_33151238_645_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: http://www.hotchickswithdouchebags.com/ freakin hilarious.
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 14:21:15 +0000
-  from_user: meghscase
-  id: 859027413
+  created_at: Thu, 14 May 2009 23:02:19 +0000
+  from_user: dlprager
+  from_user_id: 31029
+  id: 1800106412
+  iso_language_code: en
   language: en
-  text: "@itscmb That was hilarious.  A must see, people. http://www.zefrank.com/punc/"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/59090950/Picture_5_normal.png
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: haha this pic of @kevinrose checking out his old eagle scout photos is hilarious (from diggnation episode 202) http://tr.im/eaglerose
+  to_user: 
+  to_user_id: 
 results_per_page: 15
-since_id: 853023205
+since_id: 1731949630

@@ -1,98 +1,188 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859240732
-next_page: ?page=2&max_id=859240732&q=traffic+%3F
+max_id: 1800179321
+next_page: ?page=2&max_id=1800179321&q=traffic+%3F
 page: 1
-query: traffic ?
+query: traffic+%3F
 results: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:16:21 +0000
-  from_user: replica2618
-  id: 859240732
+  created_at: Thu, 14 May 2009 23:10:24 +0000
+  from_user: JeromeBayawa
+  from_user_id: 16728170
+  id: 1800179321
+  iso_language_code: en
   language: en
-  text: Who decided that traffic lights should be red yellow and green? Why not blue purple and orange?
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/208724005/lomster_normal.jpg
+  source: "&lt;a href=&quot;http://twitterrific.com&quot;&gt;Twitterrific&lt;/a&gt;"
+  text: "@carloesperat were you able to get a ticket? I think their servers were going down due to huge traffic."
+  to_user: carloesperat
+  to_user_id: 4373013
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:03:00 +0000
-  from_user: bardoville
-  id: 859229344
+  created_at: Thu, 14 May 2009 23:10:17 +0000
+  from_user: MikeEchoGolf
+  from_user_id: 16917081
+  id: 1800178171
+  iso_language_code: en
   language: en
-  text: omg... Traffic Secrets 2.0 has been launched. Do I go for it this time?...
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/210403444/Me_Smiley_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Running away to Cadets now.  Hoping for light traffic...and while I'm at it, to win the lottery! What? It's just as likely!!
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:53:02 +0000
-  from_user: donovanglass
-  id: 859221074
+  created_at: Thu, 14 May 2009 23:08:12 +0000
+  from_user: AnthonyLongoria
+  from_user_id: 12400230
+  id: 1800159162
+  iso_language_code: en
   language: en
-  text: "@johnreese where do jan 2007 pre-sale owners of traffic secrets 1 go to get their free copy?"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/157864824/Santa_Barbara_Mission_normal.jpg
+  source: "&lt;a href=&quot;http://orangatame.com/products/twitterberry/&quot;&gt;TwitterBerry&lt;/a&gt;"
+  text: En route back to Santa Barbara, dealing with L.A. Traffic! No offense but how do u deal w/this everyday? Seriously these ppl. Suck!
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:50:28 +0000
-  from_user: bethefruitbill
-  id: 859218804
+  created_at: Thu, 14 May 2009 23:07:39 +0000
+  from_user: twitnando
+  from_user_id: 9106265
+  id: 1800154357
+  iso_language_code: en
   language: en
-  text: "@tonebox  Do you have a traffic report for I-65?"
+  profile_image_url: http://static.twitter.com/images/default_profile_normal.png
+  source: "&lt;a href=&quot;http://twitterfon.net/&quot;&gt;TwitterFon&lt;/a&gt;"
+  text: How great is it when u r late and traffic is clear and all lights green? Almost orgasmicly great!
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:47:28 +0000
-  from_user: paulinetrabert
-  id: 859216031
+  created_at: Thu, 14 May 2009 23:06:44 +0000
+  from_user: randomgrl
+  from_user_id: 161210
+  id: 1800146110
+  iso_language_code: en
   language: en
-  text: So who has the best bonuses for Traffic Secrets? Any ideas?
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/202990552/half_face_me_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@davedelaney it *appears* to be Atlanta but wheres the traffic??? safe travels 8)"
+  to_user: davedelaney
+  to_user_id: 1705
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:36:52 +0000
-  from_user: toss_garbage
-  id: 859206840
+  created_at: Thu, 14 May 2009 23:06:00 +0000
+  from_user: cjadonair
+  from_user_id: 9323345
+  id: 1800139506
+  iso_language_code: en
   language: en
-  text: Traffic Secrets 2.0 - Worth It? http://tinyurl.com/62dcqn
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/115587568/onair-twitter-logo_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Silly traffic tickets, like parking too far from the curb. Do u fight 'em? Laxer Live with Dan Laxer on CJAD 514-790-0991, text 514800.
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:34:57 +0000
-  from_user: yarostarak
-  id: 859205072
+  created_at: Thu, 14 May 2009 23:04:12 +0000
+  from_user: dwainawood
+  from_user_id: 16762958
+  id: 1800123182
+  iso_language_code: en
   language: en
-  text: I just bought my copy of Traffic Secrets 2.0, how about you? http://www.trafficsecrets.com/home
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/208988725/100_0084_normal.JPG
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: STOP Lousy Website Traffic? This OFFER is a must! Your 50,000 FREE visitors will start TODAY! 	http://vur.me/dwood/61333073
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:29:34 +0000
-  from_user: elizabethpw
-  id: 859200341
+  created_at: Thu, 14 May 2009 23:04:06 +0000
+  from_user: marissajayne
+  from_user_id: 4350950
+  id: 1800122193
+  iso_language_code: en
   language: en
-  text: just bought Traffic Secrets 2.0, wonder how long it will take to deliver?
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/93135304/MyPicture_2_normal.jpg
+  source: "&lt;a href=&quot;http://help.twitter.com/index.php?pg=kb.page&amp;id=75&quot;&gt;txt&lt;/a&gt;"
+  text: Can't believe the stand still traffic on every road in battle creek. what's the deal cereal city? I am very angry.
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:28:50 +0000
-  from_user: Reetesh
-  id: 859199785
+  created_at: Thu, 14 May 2009 23:03:21 +0000
+  from_user: Gardenwiseguy
+  from_user_id: 5118814
+  id: 1800115365
+  iso_language_code: en
   language: en
-  text: "@philthyphil Why are they going down ? I mean..is the traffic, the highest ever this time?"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/191784726/billygoodnickfgsidebar_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@MartinTheDog Martin: I'm pimping the hell out of your tweets. Lemme know if your traffic picks up. Are you single? I know some bitches."
+  to_user: martinthedog
+  to_user_id: 16188326
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:23:12 +0000
-  from_user: JocelynKirby
-  id: 859194708
+  created_at: Thu, 14 May 2009 23:03:08 +0000
+  from_user: CinLBC
+  from_user_id: 6938402
+  id: 1800113524
+  iso_language_code: en
   language: en
-  text: no smug feeling as no traffic! What ever happened to Farnborough gridlock?!
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/202839031/9f9122867e88__1104779825000_normal.jpg
+  source: "&lt;a href=&quot;http://orangatame.com/products/twitterberry/&quot;&gt;TwitterBerry&lt;/a&gt;"
+  text: Thursday traffic?! Booshit!!
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:39:31 +0000
-  from_user: bendtheweb
-  id: 859152973
+  created_at: Thu, 14 May 2009 23:02:01 +0000
+  from_user: cre8tvdirektr
+  from_user_id: 3328543
+  id: 1800103630
+  iso_language_code: en
   language: en
-  text: "FTR: Who Has The Best Bonus Package for Traffic Secrets?: Well, I think I do. I\xE2\x80\x99m not offeri.. http://tinyurl.com/68gzdl"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/114296462/jms_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: RT @okchickadeeEh, color or no color? It's for my traffic-themed love hotel brochure. http://twitpic.com/56he4 http://twitpic.com/56hdl
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:31:03 +0000
-  from_user: jtunkelo
-  id: 859144504
+  created_at: Thu, 14 May 2009 23:01:49 +0000
+  from_user: jvdouglas
+  from_user_id: 1876662
+  id: 1800101817
+  iso_language_code: en
   language: en
-  text: Traffic Secrets server hammered even BEFORE they open. "We had no idea the traffic levels would be as high as it already is"? Come on...
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/126449721/me_normal.jpg
+  source: "&lt;a href=&quot;http://twitterhelp.blogspot.com/2008/05/twitter-via-mobile-web-mtwittercom.html&quot;&gt;mobile web&lt;/a&gt;"
+  text: what happened to the traffic? Is there a public holiday I don't know about?
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:25:57 +0000
-  from_user: vincesamios
-  id: 859139242
+  created_at: Thu, 14 May 2009 23:00:57 +0000
+  from_user: Robib8282
+  from_user_id: 8724212
+  id: 1800093938
+  iso_language_code: en
   language: en
-  text: Heard of any Traffic Secrets 2.0 Bonuses? Already got most of them, so interested in any and all.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/111049399/Amandas_Birthday_normal.jpg
+  source: "&lt;a href=&quot;http://help.twitter.com/index.php?pg=kb.page&amp;id=75&quot;&gt;txt&lt;/a&gt;"
+  text: what's going on in the Galleria area?  I'm in the worst traffic I have seen since moving to this area.
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:19:28 +0000
-  from_user: dynobuoy
-  id: 859132830
+  created_at: Thu, 14 May 2009 22:59:37 +0000
+  from_user: ange2k9
+  from_user_id: 13678899
+  id: 1800080957
+  iso_language_code: en
   language: en
-  text: "@Rajinder But Twitter traffic is more attractive than Jaiku, I think goog had something else before they bought blogger?"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/181539375/fucked_from_d_nite_before___normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@Dyer77 how old were you in human traffic?"
+  to_user: Dyer77
+  to_user_id: 9391150
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:17:59 +0000
-  from_user: DavidMaleney
-  id: 859131245
+  created_at: Thu, 14 May 2009 22:58:15 +0000
+  from_user: duddy17
+  from_user_id: 15008393
+  id: 1800069073
+  iso_language_code: en
   language: en
-  text: 912 people have reminded me Traffic Secrets is here. do i have the memory of a goldfish?
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/193669214/img004_normal.jpg
+  source: "&lt;a href=&quot;http://orangatame.com/products/twitterberry/&quot;&gt;TwitterBerry&lt;/a&gt;"
+  text: Anybody know what's up w traffic on Rt 20 East in Sudbury (or Wayland)?
+  to_user: 
+  to_user_id: 
 results_per_page: 15
 since_id: 0

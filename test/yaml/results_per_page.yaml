@@ -1,192 +1,379 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859172945
-next_page: ?page=2&max_id=859172945&q=Boston+Celtics
+max_id: 1800187138
+next_page: ?page=2&max_id=1800187138&rpp=30&q=Boston+Celtics
 page: 1
-query: Boston Celtics
+query: Boston+Celtics
 results: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 13:06:05 +0000
-  from_user: gmanewstv
-  id: 858962102
-  language: en
-  text: "Celtics attend premiere of their championship DVD: The \"Beat L.A!\" chants echoed through the Boston Gar.. http://tinyurl.com/592mgs"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 09:27:57 +0000
-  from_user: nbatube
-  id: 858836387
-  language: en
-  text: Boston Celtics-Los Angeles Lakers, Halftime http://tinyurl.com/673s24
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 03:15:43 +0000
-  from_user: celticsupdates
-  id: 858631524
-  language: en
-  text: For Boston Celtics it's banner No. 17, DVD No. 1 http://tinyurl.com/5c2b8c
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 22:31:25 +0000
-  from_user: nbatube
-  id: 858445267
-  language: fr
-  text: NBA Boston Celtics Mix 2008 http://tinyurl.com/56c6ky
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 18:11:33 +0000
-  from_user: nosaltadded
-  id: 858244586
-  language: en
-  text: you might as well root for the boston celtics. sigh, whatever floats your boat...
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 16:13:07 +0000
-  from_user: celticsblog
-  id: 858141681
-  language: en
-  text: "Daily Links 7/14: Globe Posey decision near? (http://www.boston.com/sports/basketball/celtics/extras/.. http://tinyurl.com/6rlgqz"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 13:29:55 +0000
-  from_user: topix_nba
-  id: 857998695
-  language: en
-  text: "The End of the Posey Era in Boston: Marc Spears is reporting that the Celtics seem to be locked into a .. http://tinyurl.com/685ldt"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 11:13:06 +0000
-  from_user: celticsblog
-  id: 857910762
-  language: en
+  created_at: Thu, 14 May 2009 23:11:16 +0000
+  from_user: gf_nba
+  from_user_id: 16965848
+  id: 1800187138
+  iso_language_code: it
+  language: it
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/210878018/logonba_normal.png
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
   text: |-
-    Posey Deal Near: 
-    Marc Spears reports: (http://www.boston.com/sports/basketball/celtics/extras/celti.. http://tinyurl.com/5abo6q
+    #Baloncesto: Boston Celtics 2-0 Orlando Magic
+    1er. Cuarto - [NBA Playoffs]
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 01:36:10 +0000
-  from_user: ghampceo
-  id: 857615847
+  created_at: Thu, 14 May 2009 23:11:15 +0000
+  from_user: golfutbol
+  from_user_id: 16465261
+  id: 1800186986
+  iso_language_code: it
+  language: it
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/206087319/044e8d4a2e7bc6_normal.png
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: |-
+    #Baloncesto: Boston Celtics 2-0 Orlando Magic
+    1er. Cuarto - [NBA Playoffs]
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:10:57 +0000
+  from_user: AndalusiaSlim
+  from_user_id: 11163732
+  id: 1800184330
+  iso_language_code: en
   language: en
-  text: "@Odenized just to answer ur question from yesterday..but I'm from boston and love celtics and knicks"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/206152635/Mim_with_cold_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: -- let's go Celtics &amp; Red Sox (I &lt;3 Boston)
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sun, 13 Jul 2008 17:35:49 +0000
-  from_user: cbee
-  id: 857353080
+  created_at: Thu, 14 May 2009 23:10:05 +0000
+  from_user: fivestring71
+  from_user_id: 5321638
+  id: 1800176107
+  iso_language_code: en
   language: en
-  text: Going to new Getty Museum today as prize for winning bet on who would win NBA championship. Boston Celtics FTW!!
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/81427806/009_6A_normal.JPG
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Any Boston Celtics fans?
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 12 Jul 2008 06:13:24 +0000
-  from_user: celticsblog
-  id: 856321643
+  created_at: Thu, 14 May 2009 23:08:32 +0000
+  from_user: Sportschickca
+  from_user_id: 14526375
+  id: 1800162295
+  iso_language_code: en
   language: en
-  text: "Celtics Sign Patrick O'Bryant: Marc Spears reports: (http://www.boston.com/sports/basketball/celtics/.. http://tinyurl.com/57nekd"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/202042660/Cheers_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: In our Boston Playoff double-header, the Celtics are set to tip off.  The lucky charms will try to show the Magic that tricks are for kids!
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Thu, 10 Jul 2008 17:51:01 +0000
-  from_user: djbentley
-  id: 854863511
+  created_at: Thu, 14 May 2009 23:08:13 +0000
+  from_user: spree1
+  from_user_id: 339067
+  id: 1800159232
+  iso_language_code: de
+  language: de
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/97545365/free-hugs_normal.jpg
+  source: "&lt;a href=&quot;http://funkatron.com/spaz&quot;&gt;Spaz&lt;/a&gt;"
+  text: "#magic vs. #celtics letztes spiel? ich glaube schon, GO BOSTON GO"
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:06:39 +0000
+  from_user: markafloyd
+  from_user_id: 27099
+  id: 1800145424
+  iso_language_code: en
   language: en
-  text: They may aswell rename this place the Boston Celtics store.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/35454252/nice_normal.jpg
+  source: "&lt;a href=&quot;http://help.twitter.com/index.php?pg=kb.page&amp;id=75&quot;&gt;txt&lt;/a&gt;"
+  text: Redsox then in the 12th.   Bruins and celtics about to start their game 6s. Holy sports! Looking for a boston triple play tonight!
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Thu, 10 Jul 2008 15:29:39 +0000
-  from_user: scott_welch
-  id: 854733176
-  language: en
-  text: "Patriots, Red Sox, and Celtics, Oh My!: After watching the Boston Celtics win another championship a .. http://tinyurl.com/5zj2w6"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Thu, 10 Jul 2008 02:27:24 +0000
-  from_user: nbatube
-  id: 854265596
-  language: en
-  text: Boston Celtics celebrates with Manny Pacquiao http://tinyurl.com/62v7c8
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Thu, 10 Jul 2008 00:29:05 +0000
-  from_user: nbatube
-  id: 854193036
-  language: en
-  text: Boston Celtics Big Three Mix- Champions http://tinyurl.com/5ujsa6
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Wed, 09 Jul 2008 13:29:14 +0000
-  from_user: theoakridger
-  id: 853698809
-  language: en
-  text: "FBI to investigate Celtics fan\xE2\x80\x99s death: \n\
-    \t\t\t\n\
-    \t\t\tThe FBI will investigate whether Boston police used .. http://tinyurl.com/5zc4o3"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Wed, 09 Jul 2008 04:27:22 +0000
-  from_user: nbatube
-  id: 853428130
-  language: sv
-  text: Boston Celtics Got Game http://tinyurl.com/6g9bae
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 08 Jul 2008 16:10:41 +0000
-  from_user: FanNation
-  id: 852939298
-  language: en
-  text: "Hornets target Celtics' Posey: The Hornets are targeting Boston Celtics free agent James Posey to solve.. http://tinyurl.com/5p35yr"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 08 Jul 2008 14:19:08 +0000
-  from_user: seacoastonline
-  id: 852845479
-  language: en
-  text: "Up to the minute: FBI to look at Celtics fan death: BOSTON \xE2\x80\x94 The FBI will i.. http://tinyurl.com/6dkjcs"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 08 Jul 2008 14:06:54 +0000
-  from_user: SeacoastLocal
-  id: 852835960
-  language: en
-  text: "FBI to look at Celtics fan death: BOSTON \xE2\x80\x94 The FBI will investigate whether Boston police use.. http://tinyurl.com/6lrs5b"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 08 Jul 2008 13:09:05 +0000
-  from_user: bostonupdate
-  id: 852792053
-  language: en
-  text: "Boston.com homepage: FBI to probe Celtics fan's death - http://tinyurl.com/5mkava"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 07 Jul 2008 22:29:44 +0000
-  from_user: nbatube
-  id: 852347084
+  created_at: Thu, 14 May 2009 23:06:32 +0000
+  from_user: cbwatts1138
+  from_user_id: 4925842
+  id: 1800144407
+  iso_language_code: eo
   language: eo
-  text: BOSTON CELTICS! http://tinyurl.com/6lej8u
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/78711944/tw_normal.JPG
+  source: "&lt;a href=&quot;http://help.twitter.com/index.php?pg=kb.page&amp;id=75&quot;&gt;txt&lt;/a&gt;"
+  text: It's game time!!! Game 6, Boston Celtics vs. Orlando Magic!!!
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 07 Jul 2008 10:29:22 +0000
-  from_user: nbatube
-  id: 851871478
+  created_at: Thu, 14 May 2009 23:06:10 +0000
+  from_user: RNS1FAN
+  from_user_id: 14157349
+  id: 1800141074
+  iso_language_code: en
   language: en
-  text: Boston Celtics Playoff Champions 2008 http://tinyurl.com/5vjvln
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/201494758/l_b2e811794f4e10e3cd1a35ff9cba8d28_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: ITZ GAME TYME !! LETZ GOO BOSTON !! LETZ GOO CELTICS !!!
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sun, 06 Jul 2008 04:25:42 +0000
-  from_user: golfdb
-  id: 851076374
+  created_at: Thu, 14 May 2009 23:04:36 +0000
+  from_user: xctrackiex
+  from_user_id: 8239529
+  id: 1800126819
+  iso_language_code: en
   language: en
-  text: "SoLo Powered NBA Success: World Champion Boston Celtics Fueled by SoLo Bars"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/115998476/meeee_lily_09_normal.jpg
+  source: "&lt;a href=&quot;http://twitterhelp.blogspot.com/2008/05/twitter-via-mobile-web-mtwittercom.html&quot;&gt;mobile web&lt;/a&gt;"
+  text: let's go boston..c'mon papelbon wrap up the sox game..its all or nothing bruins and celtics finish it up!!
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sun, 06 Jul 2008 04:03:14 +0000
-  from_user: RedSoxGirl
-  id: 851066831
+  created_at: Thu, 14 May 2009 23:04:05 +0000
+  from_user: BOS_RedSox
+  from_user_id: 10995352
+  id: 1800122048
+  iso_language_code: en
   language: en
-  text: "So Boston produced 3 great things: the RedSox, the Celtics, and the sexy singer from Boys Like Girls. <3"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/131732189/redsox_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: RT @craftygrl45 Is watching the Red Sox game then the other Boston Teams the Bruins &amp; the Celtics later tonite.
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 05 Jul 2008 18:40:58 +0000
-  from_user: Deston
-  id: 850838184
+  created_at: Thu, 14 May 2009 23:03:58 +0000
+  from_user: BOS_RedSox
+  from_user_id: 10995352
+  id: 1800120953
+  iso_language_code: en
   language: en
-  text: "@Odenized I grew up a Celtics fan. Lived in Boston in '72. Have lived in Portland since '81, and have half season tix. I bleed green tho."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/131732189/redsox_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: RT @jryan120 Is Boston the best sports town, not even close... Red Sox in extra innings, Celtics and Bruins in playoffs....   are you ki ...
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 05 Jul 2008 16:19:47 +0000
-  from_user: handcff
-  id: 850773505
+  created_at: Thu, 14 May 2009 23:03:56 +0000
+  from_user: BOS_RedSox
+  from_user_id: 10995352
+  id: 1800120693
+  iso_language_code: en
   language: en
-  text: Boston police seek a review of Celtics fan's death - The  .. http://tinyurl.com/5glfpg
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/131732189/redsox_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: RT @Dsquared10 Come on Angels, break this tie!  I hate the Boston Red Sox almost as much as I hate the Boston Celtics.
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 05 Jul 2008 14:21:47 +0000
-  from_user: Odenized
-  id: 850712476
+  created_at: Thu, 14 May 2009 23:03:43 +0000
+  from_user: BryceThinksThat
+  from_user_id: 10906762
+  id: 1800118740
+  iso_language_code: en
   language: en
-  text: "@Deston The Celtics sh\rould re-sign James Posey before they turn their attention to free agents. Plus, Maggette wouldn't fit in Boston."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/135520790/3_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: The Boston of Celtics are playing the Orlando of Magic RIGHT NOW.. ESPN..
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 05 Jul 2008 10:15:43 +0000
-  from_user: handcff
-  id: 850619130
-  language: en
-  text: Boston police seek a review of Celtics fan's death - The Associated Press.
+  created_at: Thu, 14 May 2009 23:03:19 +0000
+  from_user: gf_nba
+  from_user_id: 16965848
+  id: 1800115137
+  iso_language_code: it
+  language: it
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/210878018/logonba_normal.png
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: |-
+    #Baloncesto: Boston Celtics 0-0 Orlando Magic
+    1er. Cuarto - [NBA Playoffs]
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Sat, 05 Jul 2008 01:15:34 +0000
-  from_user: ebbcaabefcf
-  id: 850410330
+  created_at: Thu, 14 May 2009 23:03:18 +0000
+  from_user: golfutbol
+  from_user_id: 16465261
+  id: 1800114962
+  iso_language_code: it
+  language: it
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/206087319/044e8d4a2e7bc6_normal.png
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: |-
+    #Baloncesto: Boston Celtics 0-0 Orlando Magic
+    1er. Cuarto - [NBA Playoffs]
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:03:04 +0000
+  from_user: anagraziato
+  from_user_id: 16053851
+  id: 1800112868
+  iso_language_code: it
+  language: it
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/212049713/n745249621_9526_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: orlando magic or boston celtics?
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:02:40 +0000
+  from_user: timmedeiros
+  from_user_id: 5797300
+  id: 1800109447
+  iso_language_code: en
   language: en
-  text: Boston police seek a review of Celtics fan's death - The  .. http://tinyurl.com/5glfpg
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/85423217/Pic_normal.jpg
+  source: "&lt;a href=&quot;http://help.twitter.com/index.php?pg=kb.page&amp;id=75&quot;&gt;txt&lt;/a&gt;"
+  text: In for another stressful night Celtics then Bruins. Got to watch game 7. Go Boston!
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:02:22 +0000
+  from_user: Dsquared10
+  from_user_id: 12289913
+  id: 1800106900
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/145928205/n821520226_2724780_1904_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Come on Angels, break this tie!  I hate the Boston Red Sox almost as much as I hate the Boston Celtics.
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:01:36 +0000
+  from_user: natureboy2323
+  from_user_id: 9018359
+  id: 1800099793
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/114467684/Wrestling_fourHorsemen_normal.gif
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "RT @ESPN360: WATCH LIVE: NBA Playoffs: Boston Celtics vs Orlando Magic - http://tinyurl.com/rbgt5o"
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:01:17 +0000
+  from_user: alyssa_15
+  from_user_id: 4817510
+  id: 1800096551
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/152485715/Thunder_normal.jpg
+  source: "&lt;a href=&quot;http://help.twitter.com/index.php?pg=kb.page&amp;id=75&quot;&gt;txt&lt;/a&gt;"
+  text: Watching the CELTICS then the BRUINS!!! BIG NIGHT IN BOSTON!!!
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:01:16 +0000
+  from_user: nategilbert
+  from_user_id: 9273271
+  id: 1800096332
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/203584039/Photo_90_normal.jpg
+  source: "&lt;a href=&quot;http://twitterfon.net/&quot;&gt;TwitterFon&lt;/a&gt;"
+  text: Celtics on now, bruins later! Go Boston!!
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:01:03 +0000
+  from_user: beltwayboy
+  from_user_id: 6856992
+  id: 1800094749
+  iso_language_code: en
+  language: en
+  profile_image_url: http://static.twitter.com/images/default_profile_normal.png
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Ready to watch the Celtics vs Magic. We will see a game 7 in Boston I think. I love game 7's! Win or go Home!!!!!!!
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:00:50 +0000
+  from_user: ESPN360
+  from_user_id: 2339403
+  id: 1800092802
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/88732330/360_logo_for_twitter_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "WATCH LIVE: NBA Playoffs: Boston Celtics vs Orlando Magic - http://tinyurl.com/rbgt5o"
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:00:39 +0000
+  from_user: twitchART
+  from_user_id: 5637955
+  id: 1800091025
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/78720456/IMG_4307_normal.JPG
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Boston Celtics@Orlando Magic. Takin' Boston again straight up and with +7. They are 32-0 when they have a 3-2 lead and Orlando is imploding.
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 22:57:16 +0000
+  from_user: nickfeio
+  from_user_id: 10452888
+  id: 1800060283
+  iso_language_code: pt
+  language: pt
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/127935884/NF005_-_Feioso_-_2000_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "Come\xC3\xA7ando AGORA o jogo 5 entre Boston Celtics e Orlando Magic!!! Semifinais de confer\xC3\xAAncia dos playoffs da NBA!\n\n\
+    @ ESPN"
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 22:57:08 +0000
+  from_user: JBInsider
+  from_user_id: 15904678
+  id: 1800059202
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/200935927/jbinsider_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: |-
+    Get your Boston Celtics/Orlando Magic pointspread breakdown right here!!!
+    http://insider.justbet.com/rue
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 22:56:43 +0000
+  from_user: ObamaRep
+  from_user_id: 5494514
+  id: 1800055520
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/141780224/kadar_tux_2_normal.jpg
+  source: "&lt;a href=&quot;http://twitterfon.net/&quot;&gt;TwitterFon&lt;/a&gt;"
+  text: Im watching Brian Williams on the news, getting ready for Orlando, Boston.....oh yeah the Celtics suck!!!!!
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 22:56:41 +0000
+  from_user: huhu2k
+  from_user_id: 9104003
+  id: 1800055174
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/113755411/me_huhu_normal.jpg
+  source: "&lt;a href=&quot;http://twitterhelp.blogspot.com/2008/05/twitter-via-mobile-web-mtwittercom.html&quot;&gt;mobile web&lt;/a&gt;"
+  text: looking at nba stats...boston vs orlando today...go celtics
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 22:54:41 +0000
+  from_user: jpet21
+  from_user_id: 11390398
+  id: 1800037345
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/136823847/DSC01019_normal.JPG
+  source: "&lt;a href=&quot;http://orangatame.com/products/twitterberry/&quot;&gt;TwitterBerry&lt;/a&gt;"
+  text: Just leaving work now! Eww. Home to have a beverage and pack and watch some good boston sports! Go bruins and celtics!!
+  to_user: 
+  to_user_id: 
 results_per_page: 30
 since_id: 0

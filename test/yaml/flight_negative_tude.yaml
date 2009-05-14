@@ -1,98 +1,188 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859218354
-next_page: ?page=2&max_id=859218354&q=flight+%3A%28
+max_id: 1800090467
+next_page: ?page=2&max_id=1800090467&q=flight+%3A%28
 page: 1
-query: flight :(
+query: flight+%3A%28
 results: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:50:00 +0000
-  from_user: drurin
-  id: 859218354
+  created_at: Thu, 14 May 2009 23:00:35 +0000
+  from_user: SweetCheeKeeley
+  from_user_id: 2432790
+  id: 1800090467
+  iso_language_code: en
   language: en
-  text: Bad luck, flight to Germany delayed by 3.5 hours, departure LH 755 from Bangtalore at 5.45 am :-(
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/136012924/rowing2_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@AlexaRPD I was at the airport picking up my grandparents and a flight from Ft. Lauderdale came in. I kept looking for you :P"
+  to_user: AlexaRPD
+  to_user_id: 2365110
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:52:40 +0000
-  from_user: shubhadeepb
-  id: 859166083
+  created_at: Thu, 14 May 2009 22:50:50 +0000
+  from_user: missmichy
+  from_user_id: 2660249
+  id: 1800003225
+  iso_language_code: en
   language: en
-  text: My 2am flight to Ffurt is delayed to 6am. Stopover now will be about 8 hrs. 20 hr trip to Miami now stands at 28hrs :-(
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/180333513/1239811004421_normal.jpg
+  source: "&lt;a href=&quot;http://twidroid.com&quot;&gt;twidroid&lt;/a&gt;"
+  text: At the airport and guess what? My flight is delayed :(
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:32:35 +0000
-  from_user: _brian
-  id: 859145997
+  created_at: Thu, 14 May 2009 22:35:48 +0000
+  from_user: MelissaMcClure
+  from_user_id: 25287
+  id: 1799865975
+  iso_language_code: en
   language: en
-  text: "@mortiz they did trade me up to first for a later flight but they're still idiots and completely unfanatical :("
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/74213695/meltim-9023_normal.jpg
+  source: "&lt;a href=&quot;http://help.twitter.com/index.php?pg=kb.page&amp;id=75&quot;&gt;txt&lt;/a&gt;"
+  text: awww suck!  flight delayed to denver :(
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:19:33 +0000
-  from_user: jeherv
-  id: 859132913
+  created_at: Thu, 14 May 2009 22:30:07 +0000
+  from_user: sarahctroy
+  from_user_id: 7280186
+  id: 1799813956
+  iso_language_code: en
   language: en
-  text: tracking megan's flight and annoyed at delta for making her an hour late :-(
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/97922522/me_bonfire_normal.JPG
+  source: "&lt;a href=&quot;http://twitterfon.net/&quot;&gt;TwitterFon&lt;/a&gt;"
+  text: Got the early flight to lax, but outlook does not look good on the earlier flight to San Jose :( Good thing I brought two books...
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 11:30:48 +0000
-  from_user: sanfranmash
-  id: 858898056
+  created_at: Thu, 14 May 2009 22:06:30 +0000
+  from_user: Liverpool_TX
+  from_user_id: 10504712
+  id: 1799596716
+  iso_language_code: en
   language: en
-  text: "via @marcusnelson: On tram in MSP headed for gate, flight arrived early & sat on Tarmac for 20 minutes :("
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/128585356/tattoonkotb_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@silkeanne You're like the 4th person I've seen tweeting that their friend's flight was delayed.  :("
+  to_user: silkeanne
+  to_user_id: 1775376
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 11:30:33 +0000
-  from_user: marcusnelson
-  id: 858897917
+  created_at: Thu, 14 May 2009 22:01:33 +0000
+  from_user: heatherywu
+  from_user_id: 9602980
+  id: 1799549548
+  iso_language_code: en
   language: en
-  text: On tram in MSP headed for gate, flight arrived early & sat on Tarmac for 20 minutes :(
+  profile_image_url: http://static.twitter.com/images/default_profile_normal.png
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: flight delayed 3 hours :(
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 09:09:39 +0000
-  from_user: ananyah
-  id: 858827652
-  language: en
-  text: "@CivilLizard hahaha by the time you book a flight and get there, I will be at home :P"
+  created_at: Thu, 14 May 2009 21:46:52 +0000
+  from_user: insearchofnkotb
+  from_user_id: 7335568
+  id: 1799409340
+  iso_language_code: "no"
+  language: "no"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/127897440/h_and_k_normal.jpg
+  source: "&lt;a href=&quot;http://orangatame.com/products/twitterberry/&quot;&gt;TwitterBerry&lt;/a&gt;"
+  text: Boston girls flight delayed til 9pm, not getting here til after midnight :(
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 06:58:22 +0000
-  from_user: evilasad
-  id: 858764843
+  created_at: Thu, 14 May 2009 21:42:55 +0000
+  from_user: mccutcheon21
+  from_user_id: 12779718
+  id: 1799371771
+  iso_language_code: en
   language: en
-  text: almost home, just 24 hrs before I am on the flight again can't wait for the 15 hr flight :(
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/148399013/IMG00090_normal.JPG
+  source: "&lt;a href=&quot;http://help.twitter.com/index.php?pg=kb.page&amp;id=75&quot;&gt;txt&lt;/a&gt;"
+  text: My flight is now 2hrs late!! Yea!? :(
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 06:17:51 +0000
-  from_user: crossthebreeze
-  id: 858745227
+  created_at: Thu, 14 May 2009 21:35:33 +0000
+  from_user: corymegitt
+  from_user_id: 8378668
+  id: 1799300536
+  iso_language_code: en
   language: en
-  text: 9 hour flight with Delta coming up :(
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/206448840/4155_188551880136_570715136_6925567_7997612_n_normal.jpg
+  source: "&lt;a href=&quot;http://orangatame.com/products/twitterberry/&quot;&gt;TwitterBerry&lt;/a&gt;"
+  text: http://twitpic.com/56cod The plane that's gonna take me to NYC.  I made it onto another flight.  I'm stressed :(
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 03:59:49 +0000
-  from_user: sean_mccarthy
-  id: 858661637
+  created_at: Thu, 14 May 2009 21:34:13 +0000
+  from_user: thierryweber
+  from_user_id: 7315
+  id: 1799287549
+  iso_language_code: en
   language: en
-  text: Missed my flight back to beautiful Colorado :-( Stuck at MCI for a while.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/56014178/TW-2_normal.jpg
+  source: "&lt;a href=&quot;http://twitterfon.net/&quot;&gt;TwitterFon&lt;/a&gt;"
+  text: "Swiss airlines: flight delayed about 2 hours, not so happy to come home so lately :-("
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 00:22:51 +0000
-  from_user: robinyang
-  id: 858517712
+  created_at: Thu, 14 May 2009 21:32:35 +0000
+  from_user: jonathan4me
+  from_user_id: 1859603
+  id: 1799271918
+  iso_language_code: en
   language: en
-  text: "@nickchester whoo! safe flight! let us know when you're in, maybe we'll come crash your staff meeting :P"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/131549800/Erica_Rachel__2__normal.jpg
+  source: "&lt;a href=&quot;http://help.twitter.com/index.php?pg=kb.page&amp;id=75&quot;&gt;txt&lt;/a&gt;"
+  text: "@JonathanRKnight Poor baby :( How was the flight?"
+  to_user: JonathanRKnight
+  to_user_id: 9761188
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 23:26:02 +0000
-  from_user: apriljayres
-  id: 858481792
+  created_at: Thu, 14 May 2009 21:31:06 +0000
+  from_user: Cjacques5
+  from_user_id: 6036267
+  id: 1799257325
+  iso_language_code: en
   language: en
-  text: Got here early only to find our flight delayed. Will miss our connection in los angeles. :-(
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/211645722/crop_test_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: My sweetheart is on a plane right now :( hopefully she has a safe flight! Miss you mama ;)
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 22:12:00 +0000
-  from_user: sean_mccarthy
-  id: 858431914
+  created_at: Thu, 14 May 2009 21:18:34 +0000
+  from_user: selwin
+  from_user_id: 8628427
+  id: 1799135459
+  iso_language_code: en
   language: en
-  text: Missed my flight back to beautiful Colorado :-( Stuck at KCI airport for a while.
+  profile_image_url: http://static.twitter.com/images/default_profile_normal.png
+  source: "&lt;a href=&quot;http://www.nambu.com&quot;&gt;Nambu&lt;/a&gt;"
+  text: "Flight delayed due to bad weather in #NewYork :("
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 20:06:17 +0000
-  from_user: robxmoran
-  id: 858338811
+  created_at: Thu, 14 May 2009 20:55:19 +0000
+  from_user: melissaduran
+  from_user_id: 673230
+  id: 1798896686
+  iso_language_code: en
   language: en
-  text: there are like 5 crying babies on my flight to Florida :-(
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/146994424/Phone_pics_4-16-09_107_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: American Airlines flight to MIA delayed 4 times!!!! missed connecting flight to GYE must wait till tomorrow :( NOT ACCEPTABLE!!
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 18:46:35 +0000
-  from_user: johntwimpg
-  id: 858274618
+  created_at: Thu, 14 May 2009 20:46:01 +0000
+  from_user: thedvshow
+  from_user_id: 178458
+  id: 1798802343
+  iso_language_code: en
   language: en
-  text: toronto - delayed flight, long day before I even arrived - :-(
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/91662991/Image12_normal.jpg
+  source: "&lt;a href=&quot;http://twitterfon.net/&quot;&gt;TwitterFon&lt;/a&gt;"
+  text: "@marsandle 6 hour flight, sorry :("
+  to_user: marsandle
+  to_user_id: 1885402
 results_per_page: 15
 since_id: 0

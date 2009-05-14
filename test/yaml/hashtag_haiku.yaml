@@ -1,98 +1,188 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859194186
-next_page: ?page=2&max_id=859194186&q=%23haiku
+max_id: 1800112234
+next_page: ?page=2&max_id=1800112234&q=%23haiku
 page: 1
-query: "#haiku"
+query: "%23haiku"
 results: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:22:40 +0000
-  from_user: haikutwaiku
-  id: 859194186
+  created_at: Thu, 14 May 2009 23:02:59 +0000
+  from_user: ashalynd
+  from_user_id: 2396895
+  id: 1800112234
+  iso_language_code: en
   language: en
-  text: "/ Reading instructions. / Seems I did everything wrong. / Too late to restart! / - #haiku (Shouldn't installing a rack on my b.."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/145322104/cropcrop_normal.jpg
+  source: "&lt;a href=&quot;http://desktop.seesmic.com/&quot;&gt;Seesmic Desktop&lt;/a&gt;"
+  text: "the door is open / I don't care about the fire / it's sweet to be warm --- #haiku"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:53:44 +0000
-  from_user: haikutwaiku
-  id: 859167118
+  created_at: Thu, 14 May 2009 22:57:43 +0000
+  from_user: sunsettee
+  from_user_id: 4252030
+  id: 1800064310
+  iso_language_code: en
   language: en
-  text: "/ Reading instructions. / Seems I did everything wrong. / Too late to restart! / - #haiku (Shouldn't installing a rack on my b.."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/80542426/th_Tee2_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "RT @Strawberry15 Rt @SpeaksBeliefs I adore her soul/she is not confined by time/mine eternally #haiku&lt; his #haiku brighten my day :)"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:23:21 +0000
-  from_user: haikutwaiku
-  id: 859136599
+  created_at: Thu, 14 May 2009 22:55:47 +0000
+  from_user: negrita
+  from_user_id: 290566
+  id: 1800046980
+  iso_language_code: en
   language: en
-  text: "/ Reading instructions. / Seems I did everything wrong. / Too late to restart! / - #haiku (Shouldn't installing a rack on my b.."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/136318084/negdred_normal.jpg
+  source: "&lt;a href=&quot;http://www.twittergadget.com&quot;&gt;TwitterGadget&lt;/a&gt;"
+  text: "RT @SpeaksBeliefs: I adore her soul/she is not confined by time/mine eternally #haiku"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:19:50 +0000
-  from_user: Qrystal
-  id: 859133171
+  created_at: Thu, 14 May 2009 22:54:33 +0000
+  from_user: caramelbella
+  from_user_id: 870932
+  id: 1800036121
+  iso_language_code: en
   language: en
-  text: "/ Reading instructions. / Seems I did everything wrong. / Too late to restart! / - #haiku (Shouldn't installing a rack on my bike be easy?!)"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/203407674/BG-Hair-Curled5v4200_normal.jpg
+  source: "&lt;a href=&quot;http://www.atebits.com/&quot;&gt;Tweetie&lt;/a&gt;"
+  text: "I adore her soul/she is not confined by time/mine eternally #haiku (via @SpeaksBeliefs) love it."
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 15:24:11 +0000
-  from_user: haikutwaiku
-  id: 859079447
-  language: pt
-  text: "#haiku, outro: Sob a cerejeira - sopa de florescimento, salada de florescimento."
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 15:24:09 +0000
-  from_user: haikutwaiku
-  id: 859079429
-  language: pt
-  text: "#haiku: Vem, veja/ flores reais / neste mundo doloroso"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 15:24:06 +0000
-  from_user: haikutwaiku
-  id: 859079382
+  created_at: Thu, 14 May 2009 22:54:07 +0000
+  from_user: strawberry15
+  from_user_id: 4673484
+  id: 1800032211
+  iso_language_code: en
   language: en
-  text: All these tweets / And the work we do / Nothing without power. (#haiku) Reliable electricity will pass web openness & acce..
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/199785308/from_me_normal.jpg
+  source: "&lt;a href=&quot;http://orangatame.com/products/twitterberry/&quot;&gt;TwitterBerry&lt;/a&gt;"
+  text: "Rt @SpeaksBeliefs I adore her soul/she is not confined by time/mine eternally #haiku&lt; his #haiku brighten my day :)"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 15:06:28 +0000
-  from_user: dosvald
-  id: 859062705
-  language: pt
-  text: "#haiku, outro: Sob a cerejeira -  sopa de florescimento, salada de florescimento."
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 15:05:05 +0000
-  from_user: dosvald
-  id: 859061287
-  language: pt
-  text: "#haiku: Vem, veja/ flores reais                                                            / neste mundo doloroso"
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 14:53:22 +0000
-  from_user: haikutwaiku
-  id: 859049690
+  created_at: Thu, 14 May 2009 22:53:09 +0000
+  from_user: SpeaksBeliefs
+  from_user_id: 5383416
+  id: 1800023650
+  iso_language_code: en
   language: en
-  text: All these tweets / And the work we do / Nothing without power. (#haiku) Reliable electricity will pass web openness & acce..
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/188600444/Just_ME-Black___White_with_green_and_red_normal.JPG
+  source: "&lt;a href=&quot;http://orangatame.com/products/twitterberry/&quot;&gt;TwitterBerry&lt;/a&gt;"
+  text: "I adore her soul/she is not confined by time/mine eternally #haiku"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 14:53:21 +0000
-  from_user: haikutwaiku
-  id: 859049658
+  created_at: Thu, 14 May 2009 22:44:38 +0000
+  from_user: mitchelka
+  from_user_id: 232286
+  id: 1799947010
+  iso_language_code: en
   language: en
-  text: "+ / Testing twitternotes. / This service could be useful! / We'll see what we see. / - #haiku, test"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/52899216/100_3637-1_normal.JPG
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "\\  Cafeteria, \\ shuffling towards the register: \\ &quot;Brains on the scale, please.&quot; \\ #haiku #zombie #employee"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 14:23:29 +0000
-  from_user: haikutwaiku
-  id: 859029418
+  created_at: Thu, 14 May 2009 22:32:57 +0000
+  from_user: jchronowski47
+  from_user_id: 5697091
+  id: 1799840321
+  iso_language_code: en
   language: en
-  text: All these tweets / And the work we do / Nothing without power. (#haiku) Reliable electricity will pass web openness & acce..
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/88911772/twit_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "It is too windy. My garden swing fell over. At least the sun shines. #haiku"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 14:23:27 +0000
-  from_user: haikutwaiku
-  id: 859029394
+  created_at: Thu, 14 May 2009 22:30:18 +0000
+  from_user: haiQ
+  from_user_id: 3868272
+  id: 1799815870
+  iso_language_code: en
   language: en
-  text: "+ / Testing twitternotes. / This service could be useful! / We'll see what we see. / - #haiku, test"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/73811680/meshades-notme_normal.jpg
+  source: "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;"
+  text: "/ Of all my tech tools, / my favourite one just might be / a simple date stamp! / - #haiku"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 14:22:49 +0000
-  from_user: bas1809
-  id: 859028779
+  created_at: Thu, 14 May 2009 22:30:17 +0000
+  from_user: haiQ
+  from_user_id: 3868272
+  id: 1799815630
+  iso_language_code: en
   language: en
-  text: All these tweets / And the work we do / Nothing without power. (#haiku) Reliable electricity will pass web openness & access to browsers.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/73811680/meshades-notme_normal.jpg
+  source: "&lt;a href=&quot;http://twitterfeed.com&quot;&gt;twitterfeed&lt;/a&gt;"
+  text: "/ Playing planning game: / how do I do what I must, / and what I want, too? / - #haiku"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 14:04:15 +0000
-  from_user: Qrystal
-  id: 859011797
+  created_at: Thu, 14 May 2009 22:23:41 +0000
+  from_user: froggie775
+  from_user_id: 1050471
+  id: 1799755770
+  iso_language_code: en
   language: en
-  text: "+ / Testing twitternotes. / This service could be useful! / We'll see what we see. / - #haiku, test"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/125868597/mo2_normal.jpg
+  source: "&lt;a href=&quot;http://www.tweetdeck.com/&quot;&gt;TweetDeck&lt;/a&gt;"
+  text: "Sad :( ::hugs Rachel:: RT @aileen2u2: xo #haiku: Unrequited Love/ Written about for Romance/ Can happen with Friends. (Insp by Rachel)"
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 22:21:39 +0000
+  from_user: aileen2u2
+  from_user_id: 8535113
+  id: 1799737572
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/198763740/Kelli_big_smile_BW_jpg_normal.jpg
+  source: "&lt;a href=&quot;http://ubertwitter.com&quot;&gt;UberTwitter&lt;/a&gt;"
+  text: "xo #haiku: Unrequited Love/ Written about for Romance/ Can happen with Friends. (Insp by Rachel)"
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 22:19:28 +0000
+  from_user: ryderjaphy
+  from_user_id: 5273751
+  id: 1799717451
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/81277225/twitter_normal.JPG
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "RT @Zen_Moments \xE2\x80\x9CEven in Kyoto- / Hearing the cuckoo\xE2\x80\x99s cry / I long for Kyoto.\xE2\x80\x9D ~ Basho #haiku"
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 22:11:32 +0000
+  from_user: Zen_Moments
+  from_user_id: 4888801
+  id: 1799644103
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/135718926/Zmscreenshot4_normal.gif
+  source: "&lt;a href=&quot;http://www.twhirl.org/&quot;&gt;twhirl&lt;/a&gt;"
+  text: "\xE2\x80\x9CEven in Kyoto- / Hearing the cuckoo\xE2\x80\x99s cry /  I long for Kyoto.\xE2\x80\x9D ~ Basho #haiku"
+  to_user: 
+  to_user_id: 
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 22:11:11 +0000
+  from_user: teh_nay
+  from_user_id: 3154626
+  id: 1799640671
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/86591473/tattooing_normal.jpg
+  source: "&lt;a href=&quot;http://help.twitter.com/index.php?pg=kb.page&amp;id=75&quot;&gt;txt&lt;/a&gt;"
+  text: "Sitting in the sun. Trying to heat myself up. Being cold sucks nuts. #haiku thursday"
+  to_user: 
+  to_user_id: 
 results_per_page: 15
 since_id: 0

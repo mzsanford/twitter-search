@@ -1,98 +1,188 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859242921
-next_page: ?page=2&max_id=859242921&q=movie+-scary+%3A%29
+max_id: 1800176332
+next_page: ?page=2&max_id=1800176332&q=movie+-scary+%3A%29
 page: 1
-query: movie -scary :)
+query: movie+-scary+%3A%29
 results: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:18:48 +0000
-  from_user: sbrodeur100
-  id: 859242921
+  created_at: Thu, 14 May 2009 23:10:06 +0000
+  from_user: kazaf10
+  from_user_id: 6182276
+  id: 1800176332
+  iso_language_code: en
   language: en
-  text: loves Live365. Now listening to the "Tears of Glory" channel. Movie music from movies like the Rock and such :)
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/88151036/eye_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@Zac_Efron Cant wait for another of your movie to be shown in Singapore! :)"
+  to_user: zac_efron
+  to_user_id: 5120119
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 18:03:03 +0000
-  from_user: t_thion
-  id: 859229406
+  created_at: Thu, 14 May 2009 23:10:04 +0000
+  from_user: Izhnimli
+  from_user_id: 1748139
+  id: 1800175974
+  iso_language_code: en
   language: en
-  text: Going to relax after 10 hours at work... and then need to write one article... maybe we're going to make a "open" Science Fiction movie :D
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/113510227/me2_normal.jpg
+  source: "&lt;a href=&quot;http://twitterrific.com&quot;&gt;Twitterrific&lt;/a&gt;"
+  text: Psalm 19;  the heavens declare... At the theatre watching Earth; a movie that worships God. =)
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:50:23 +0000
-  from_user: kolebee
-  id: 859218729
+  created_at: Thu, 14 May 2009 23:08:05 +0000
+  from_user: BenAbbott
+  from_user_id: 4218068
+  id: 1800158129
+  iso_language_code: en
   language: en
-  text: "@johndouthat i love this movie so much.  :D"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75358355/SDC10198_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Angels and demons the movie on sat, finishing ma re read of the book tonight now im full on a bowl of special k :)
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:48:49 +0000
-  from_user: shallanelprin
-  id: 859217271
+  created_at: Thu, 14 May 2009 23:07:31 +0000
+  from_user: KizilB
+  from_user_id: 10444284
+  id: 1800153153
+  iso_language_code: en
   language: en
-  text: Watched Batman Begins last night as a refresher before Dark Knight comes out. Forgot how good that movie is :)
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/127779105/IMG_1876_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Just Saw Wolwerine! What a GREAT movie :) And HOT hot hot HOT Hugh Jackman ;)
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:44:53 +0000
-  from_user: bantamspectra
-  id: 859213677
+  created_at: Thu, 14 May 2009 23:06:16 +0000
+  from_user: chuchsteriano
+  from_user_id: 13485347
+  id: 1800141996
+  iso_language_code: en
   language: en
-  text: "David J. Williams has a fab animated trailer for THE MIRRORED HEAVENS: http://tinyurl.com/5f7tgq -- I totally want to see this movie. :)"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/210465783/new_hair_2_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@selenagomez i cant waitt for ur movie and ur duet with ftsk... :) ur like the best actress!"
+  to_user: selenagomez
+  to_user_id: 865913
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:43:07 +0000
-  from_user: skit
-  id: 859212186
+  created_at: Thu, 14 May 2009 23:05:53 +0000
+  from_user: JessicaRosales
+  from_user_id: 9068159
+  id: 1800138570
+  iso_language_code: en
   language: en
-  text: "@kevinrose that or see the \"Bucket List\" movie =)"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/205813777/twi_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@PopularAck i want to come for the movie thing ps: i saw you on the welcome to the world video!! :) xoxo"
+  to_user: PopularAck
+  to_user_id: 17023288
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:21:48 +0000
-  from_user: KayB
-  id: 859193439
-  language: fi
-  text: Jaane tuuuuuuuuuu yaaaaaaaaaaaaa jaane na :D :D :D a cute movie! :)
-- !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 17:00:58 +0000
-  from_user: anoopmk112
-  id: 859174004
+  created_at: Thu, 14 May 2009 23:05:32 +0000
+  from_user: Retii
+  from_user_id: 15421650
+  id: 1800135405
+  iso_language_code: en
   language: en
-  text: watching Harold and Kumar escape Guantanomo Bay...funny movie.. :)
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/210331810/dpppp2_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Now watching the Superhero movie . :D
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:32:43 +0000
-  from_user: psychzzz
-  id: 859146122
+  created_at: Thu, 14 May 2009 23:05:03 +0000
+  from_user: jennyecklund
+  from_user_id: 1198652
+  id: 1800130741
+  iso_language_code: en
   language: en
-  text: is looking forward to his movie marathon :D
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/151068074/Photo_376_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Returning a movie and then enjoying the Spurgeon and iced tea in the sunshine. oh yes! Now THAT is summer! :)
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:27:21 +0000
-  from_user: dareelcharlie
-  id: 859140713
+  created_at: Thu, 14 May 2009 23:04:35 +0000
+  from_user: Lauraperillo
+  from_user_id: 11548616
+  id: 1800126622
+  iso_language_code: en
   language: en
-  text: well in every lifetime movie theres always the alcoholic :)
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/138222294/DSC02435_normal.JPG
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: I'm sleeping, going out, eating, dancing, running, smiling, study, ipod, new songs, drinking, reading, msn, movie... kkkkkk in love :)
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:08:37 +0000
-  from_user: sweetluna
-  id: 859121947
+  created_at: Thu, 14 May 2009 23:03:37 +0000
+  from_user: Ivyintherough
+  from_user_id: 4684290
+  id: 1800117849
+  iso_language_code: en
   language: en
-  text: Taking the girls to a summer kids movie :-)
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/208929272/Picture_052_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: found my married to mob movie :D i thought i had lost the bitch...
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 15:58:28 +0000
-  from_user: kcstl
-  id: 859112220
+  created_at: Thu, 14 May 2009 23:03:36 +0000
+  from_user: ankrela
+  from_user_id: 2841207
+  id: 1800117682
+  iso_language_code: en
   language: en
-  text: For those of you unfamiliar with the Hooch & DaddyO movie, our friend droob is a major character in it. :-)
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/136406141/Angie__7_AAA_normal.jpg
+  source: "&lt;a href=&quot;http://twitterfon.net/&quot;&gt;TwitterFon&lt;/a&gt;"
+  text: At a movie premiere with the free popcorn and the free drinks. :D
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 15:22:05 +0000
-  from_user: obimeowz
-  id: 859077510
+  created_at: Thu, 14 May 2009 23:03:15 +0000
+  from_user: QBandTHEHIVE
+  from_user_id: 5931601
+  id: 1800114520
+  iso_language_code: en
   language: en
-  text: "@hellokimmy awesome movie :)"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/149319087/twitter_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@loveyourfat yeah, she was a big fan of the original series, said loved the movie and i think she has a crush on the new kirk :)"
+  to_user: loveyourfat
+  to_user_id: 4954264
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 14:58:11 +0000
-  from_user: chrisspera
-  id: 859054555
+  created_at: Thu, 14 May 2009 23:03:03 +0000
+  from_user: XtinkyxbabyX
+  from_user_id: 17118303
+  id: 1800112750
+  iso_language_code: en
   language: en
-  text: work, work, work, work-work (hello boys, I missed you!) Name the movie... :)
+  profile_image_url: http://static.twitter.com/images/default_profile_normal.png
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: reading angels and demons. cant wait to see the movie the book is awesome :D
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 14:51:40 +0000
-  from_user: MommaTeena
-  id: 859047871
+  created_at: Thu, 14 May 2009 23:02:11 +0000
+  from_user: RobertGirandola
+  from_user_id: 2362535
+  id: 1800105221
+  iso_language_code: en
   language: en
-  text: I posted the movie to youtube - check your email when you go on break :)
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/84658455/RG_profile_normal.JPG
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@CrozFromOz @bethaquotaholic Star Trek is winning over Angels &amp; Demons :) Yeah, I read the first book and the movie was terrible -"
+  to_user: CrozFromOz
+  to_user_id: 3218405
+- !ruby/object:TwitterSearch::Tweet 
+  created_at: Thu, 14 May 2009 23:01:46 +0000
+  from_user: DailyActor
+  from_user_id: 3714113
+  id: 1800101320
+  iso_language_code: en
+  language: en
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/73316617/me_normal.jpg
+  source: "&lt;a href=&quot;http://www.twitzap.com&quot;&gt;TwitZap&lt;/a&gt;"
+  text: "@utstreet True! But being surrounded by hundreds of drunken people while Im trying to watch a movie? No thanks. :)"
+  to_user: utstreet
+  to_user_id: 1544023
 results_per_page: 15
 since_id: 0

@@ -1,98 +1,188 @@
 --- !ruby/object:TwitterSearch::Tweets 
-max_id: 859172945
-next_page: ?page=2&max_id=859172945&q=from%3Aalexiskold
+max_id: 1799533430
+next_page: ?page=2&max_id=1799533430&q=from%3Aalexiskold
 page: 1
-query: from:alexiskold
+query: from%3Aalexiskold
 results: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:21:34 +0000
+  created_at: Thu, 14 May 2009 18:20:28 +0000
   from_user: alexiskold
-  id: 859134875
+  from_user_id: 42740
+  id: 1797546351
+  iso_language_code: en
   language: en
-  text: I am not a huge Obama supporter, but the cover of New Yorker is one of the most ridiculous and offensive things I've seen in a long time.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75553365/AlexIskold_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: RT @marshallk Introducing the RWW Guide to Online Community Management http://bit.ly/tv1fZ Our first premium report for businesses!
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 16:19:22 +0000
+  created_at: Thu, 14 May 2009 18:09:16 +0000
   from_user: alexiskold
-  id: 859132722
+  from_user_id: 42740
+  id: 1797437087
+  iso_language_code: en
   language: en
-  text: "@abdur congrats to you guys and twitter - awesome union!"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75553365/AlexIskold_normal.jpg
+  source: "&lt;a href=&quot;http://www.getglue.com&quot;&gt;Glue&lt;/a&gt;"
+  text: Come to the NYC AdaptiveBlue Office for Glue Meetup tonight! Drink/Food/Swag/Talk and Prizes via @glue_genie! http://bit.ly/SEnjQ
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 13:54:03 +0000
+  created_at: Thu, 14 May 2009 17:32:20 +0000
   from_user: alexiskold
-  id: 859002666
+  from_user_id: 42740
+  id: 1797082506
+  iso_language_code: en
   language: en
-  text: I ran harder today, based on yesterdays advice. It felt good. Looking forward to runner's high tomorrow.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75553365/AlexIskold_normal.jpg
+  source: "&lt;a href=&quot;http://www.getglue.com&quot;&gt;Glue&lt;/a&gt;"
+  text: Totally awesome video about Glue by the AttackOfTheShow. http://bit.ly/Di8Fc
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 11:51:23 +0000
+  created_at: Thu, 14 May 2009 14:42:42 +0000
   from_user: alexiskold
-  id: 858910038
+  from_user_id: 42740
+  id: 1795403283
+  iso_language_code: en
   language: en
-  text: "My thought on the state of Facebook platform on ReadWriteWeb: http://tinyurl.com/6c8wm2"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75553365/AlexIskold_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: This looks fun! http://www.bubbletweet.com ( via @carlat )
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 04:15:16 +0000
+  created_at: Thu, 14 May 2009 14:36:38 +0000
   from_user: alexiskold
-  id: 858673903
+  from_user_id: 42740
+  id: 1795346768
+  iso_language_code: en
   language: en
-  text: I love coding because of a) Design b) Algorithms. Yeah, in that order.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75553365/AlexIskold_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "RT @Zee Where does everyone go after Twitter? Here\xE2\x80\x99s the top 10 list. http://tr.im/lkJs"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 02:40:13 +0000
+  created_at: Thu, 14 May 2009 14:24:42 +0000
   from_user: alexiskold
-  id: 858608493
+  from_user_id: 42740
+  id: 1795237195
+  iso_language_code: en
   language: en
-  text: "@ChristinaLiang  product of propaganda."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75553365/AlexIskold_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "RT @johnbattelle Yow. Hitwise data says paid search sliding: http://battellemedia.com/archives/004920.php"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 00:32:16 +0000
+  created_at: Thu, 14 May 2009 14:20:38 +0000
   from_user: alexiskold
-  id: 858523581
+  from_user_id: 42740
+  id: 1795200395
+  iso_language_code: en
   language: en
-  text: Okay, time to pack it up and head home. Good first day in the office after a long vacation.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75553365/AlexIskold_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Being creative at least once a week is really important.
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 00:23:54 +0000
+  created_at: Thu, 14 May 2009 12:43:26 +0000
   from_user: alexiskold
-  id: 858518346
+  from_user_id: 42740
+  id: 1794399243
+  iso_language_code: en
   language: en
-  text: "@steffanantonas another one thats probably great on audio - microrends"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75553365/AlexIskold_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: Heading into AdaptiveBlue office.
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Tue, 15 Jul 2008 00:23:17 +0000
+  created_at: Thu, 14 May 2009 05:08:51 +0000
   from_user: alexiskold
-  id: 858517943
+  from_user_id: 42740
+  id: 1792110272
+  iso_language_code: en
   language: en
-  text: "@steffanantonas all my personal goodies are here: http://alexiskold.tumblr.com/"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75553365/AlexIskold_normal.jpg
+  source: "&lt;a href=&quot;http://twitterrific.com&quot;&gt;Twitterrific&lt;/a&gt;"
+  text: Really excited about first Glue user meetup in NYC tonight. are you coming?
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 23:05:44 +0000
+  created_at: Thu, 14 May 2009 04:32:16 +0000
   from_user: alexiskold
-  id: 858468832
-  language: en
-  text: Coding, VC calls, biz dev tasks - today had it all.
+  from_user_id: 42740
+  id: 1791921254
+  iso_language_code: 
+  language: 
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75553365/AlexIskold_normal.jpg
+  source: "&lt;a href=&quot;http://twitterrific.com&quot;&gt;Twitterrific&lt;/a&gt;"
+  text: Eureka!!!
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 22:07:38 +0000
+  created_at: Thu, 14 May 2009 00:32:57 +0000
   from_user: alexiskold
-  id: 858428930
+  from_user_id: 42740
+  id: 1789951535
+  iso_language_code: en
   language: en
-  text: "@deansher duh, i feel stupid now. of course it does, just highlight the method name and right click - thank you!!"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75553365/AlexIskold_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@jeffnolan I am not quite sure. @marshallk can clarify. Marshall?"
+  to_user: jeffnolan
+  to_user_id: 18124
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 19:52:06 +0000
+  created_at: Thu, 14 May 2009 00:31:57 +0000
   from_user: alexiskold
-  id: 858327968
+  from_user_id: 42740
+  id: 1789942233
+  iso_language_code: en
   language: en
-  text: I wish there was a way in IntelliJ to right  click on a method in a TestCase and rung that. I am tired of renaming other test methods.
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75553365/AlexIskold_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: About to board Denver =&gt; Newark. Can't wait to get home after a week on the road. But first - catch up on work on the plane.
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 19:34:04 +0000
+  created_at: Thu, 14 May 2009 00:17:41 +0000
   from_user: alexiskold
-  id: 858313625
+  from_user_id: 42740
+  id: 1789812907
+  iso_language_code: en
   language: en
-  text: "@bokardo thats only on the iPhone, right? Does not seem to work on the desktop."
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75553365/AlexIskold_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: RT @rww Is This Why Twitter Changed Its Replies Policy? - ReadWriteWeb http://tinyurl.com/osvx2r (via @tweetmeme)
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 19:31:10 +0000
+  created_at: Wed, 13 May 2009 18:08:54 +0000
   from_user: alexiskold
-  id: 858311312
+  from_user_id: 42740
+  id: 1786850643
+  iso_language_code: en
   language: en
-  text: "@zoliblog LOL, this is spot on : http://tinyurl.com/6gl2jz"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75553365/AlexIskold_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "RT @adaptiveblue Are you in DC? See @DuckBrown present Glue at the Washington Semantic Web Meetup tonight. http://bit.ly/CyxAe #wswm"
+  to_user: 
+  to_user_id: 
 - !ruby/object:TwitterSearch::Tweet 
-  created_at: Mon, 14 Jul 2008 19:30:06 +0000
+  created_at: Wed, 13 May 2009 17:42:55 +0000
   from_user: alexiskold
-  id: 858310416
+  from_user_id: 42740
+  id: 1786602892
+  iso_language_code: en
   language: en
-  text: "@jasondevitt good release - keeps getting better and better!"
+  profile_image_url: http://s3.amazonaws.com/twitter_production/profile_images/75553365/AlexIskold_normal.jpg
+  source: "&lt;a href=&quot;http://twitter.com/&quot;&gt;web&lt;/a&gt;"
+  text: "@joshelman can we meet up at 1:00 or 1:30 near Gnip table?"
+  to_user: joshelman
+  to_user_id: 5359751
 results_per_page: 15
 since_id: 0

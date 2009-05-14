@@ -166,15 +166,15 @@ class TwitterSearchTest < Test::Unit::TestCase # :nodoc:
     end
   end
   
-  context "@client.query :q => 'ftw until:2008-05-03'" do
+  context "@client.query :q => 'ftw until:2009-05-14'" do
     setup do
       @tweets = read_yaml :file => 'ftw_until'
     end
     
     should_have_default_search_behaviors
     
-    should 'find tweets containing "ftw" and sent up to date "2008-05-03"' do
-      assert @tweets.all?{ |t| t.text =~ /ftw/i && convert_date(t.created_at) < DateTime.new(2008, 5, 3, 11, 59) }
+    should 'find tweets containing "ftw" and sent up to date "2009-05-14"' do
+      assert @tweets.all?{ |t| t.text =~ /ftw/i && convert_date(t.created_at) < DateTime.new(2009, 5, 14, 11, 59) }
     end
   end
   
@@ -329,7 +329,7 @@ class TwitterSearchTest < Test::Unit::TestCase # :nodoc:
     should_have_default_search_behaviors
     
     should 'return the third tweet' do
-      assert_equal 859152168, @tweets[2].id
+      assert_equal 1800188913, @tweets[2].id
     end
   end
 
